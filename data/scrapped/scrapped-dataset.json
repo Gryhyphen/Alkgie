@@ -1,0 +1,3294 @@
+[
+  {
+    "filename": "awesome-fsharp.md",
+    "data": [
+      {
+        "link": "#",
+        "description": "Awesome F#\nF# wrappers for popular .NET libraries\nActor frameworks\nBuild tools\nCloud\nCompilers\nConcurrent, asynchronous and parallel programming\nConfiguration\nData Science\nDevelopment Tools\nIDE\nEditor plugins\nPerformance analysis\n\n\nGame development\nGeneral purpose libraries\nGUI\nHTTP Clients\nLogging\nPackage Management\nParsing\nPreCompilation\nSearch\nSerialization\nSimulation\nTesting\nType providers\nCreating type providers\n\n\nVisualization\nWeb frameworks\n.Net Core Templates\nResources\nBlogs\nCheatsheets\nCommunity\nOther Lists\nWebsites\nVideos\nCourses\n\n\n\n",
+        "name": "Awesome F#F# wrappers for popular .NET librariesActor frameworksBuild toolsCloudCompilersConcurrent, asynchronous and parallel programmingConfigurationData ScienceDevelopment ToolsIDEEditor pluginsPerformance analysisGame developmentGeneral purpose librariesGUIHTTP ClientsLoggingPackage ManagementParsingPreCompilationSearchSerializationSimulationTestingType providersCreating type providersVisualizationWeb frameworks.Net Core TemplatesResourcesBlogsCheatsheetsCommunityOther ListsWebsitesVideosCourses",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#f-wrappers-for-popular-net-libraries",
+        "description": "F# wrappers for popular .NET libraries",
+        "name": "F# wrappers for popular .NET libraries",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#actor-frameworks",
+        "description": "Actor frameworks",
+        "name": "Actor frameworks",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#build-tools",
+        "description": "Build tools",
+        "name": "Build tools",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#cloud",
+        "description": "Cloud",
+        "name": "Cloud",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#compilers",
+        "description": "Compilers",
+        "name": "Compilers",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#concurrent-asynchronous-and-parallel-programming",
+        "description": "Concurrent, asynchronous and parallel programming",
+        "name": "Concurrent, asynchronous and parallel programming",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#configuration",
+        "description": "Configuration",
+        "name": "Configuration",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#data-science",
+        "description": "Data Science",
+        "name": "Data Science",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#development-tools",
+        "description": "Development Tools\nIDE\nEditor plugins\nPerformance analysis\n\n",
+        "name": "Development ToolsIDEEditor pluginsPerformance analysis",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#ide",
+        "description": "IDE",
+        "name": "IDE",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#editor-plugins",
+        "description": "Editor plugins",
+        "name": "Editor plugins",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#performance-analysis",
+        "description": "Performance analysis",
+        "name": "Performance analysis",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#game-development",
+        "description": "Game development",
+        "name": "Game development",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#general-purpose-libraries",
+        "description": "General purpose libraries",
+        "name": "General purpose libraries",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#gui",
+        "description": "GUI",
+        "name": "GUI",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#http-clients",
+        "description": "HTTP Clients",
+        "name": "HTTP Clients",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#logging",
+        "description": "Logging",
+        "name": "Logging",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#package-management",
+        "description": "Package Management",
+        "name": "Package Management",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#parsing",
+        "description": "Parsing",
+        "name": "Parsing",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#precompilation",
+        "description": "PreCompilation",
+        "name": "PreCompilation",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#search",
+        "description": "Search",
+        "name": "Search",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#serialization",
+        "description": "Serialization",
+        "name": "Serialization",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#simulation",
+        "description": "Simulation",
+        "name": "Simulation",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#testing",
+        "description": "Testing",
+        "name": "Testing",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#type-providers",
+        "description": "Type providers\nCreating type providers\n\n",
+        "name": "Type providersCreating type providers",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#creating-type-providers",
+        "description": "Creating type providers",
+        "name": "Creating type providers",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#visualization",
+        "description": "Visualization",
+        "name": "Visualization",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#web-frameworks",
+        "description": "Web frameworks",
+        "name": "Web frameworks",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#net-core-templates",
+        "description": ".Net Core Templates",
+        "name": ".Net Core Templates",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#resources",
+        "description": "Resources\nBlogs\nCheatsheets\nCommunity\nOther Lists\nWebsites\nVideos\nCourses\n\n",
+        "name": "ResourcesBlogsCheatsheetsCommunityOther ListsWebsitesVideosCourses",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#blogs",
+        "description": "Blogs",
+        "name": "Blogs",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#cheatsheets",
+        "description": "Cheatsheets",
+        "name": "Cheatsheets",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#community",
+        "description": "Community",
+        "name": "Community",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#other-lists",
+        "description": "Other Lists",
+        "name": "Other Lists",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#websites",
+        "description": "Websites",
+        "name": "Websites",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#videos",
+        "description": "Videos",
+        "name": "Videos",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "#courses",
+        "description": "Courses",
+        "name": "Courses",
+        "headers": [
+          "Table of Contents",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/akkadotnet/akka.net",
+        "description": "Akka.NET \u2605 2239 \u29D7 0 - Community-driven port of the popular Java/Scala framework Akka to .NET. [Apache 2.0]",
+        "name": "Akka.NET \u2605 2239 \u29D7 0",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Horusiath/Akkling",
+        "description": "Akkling \u2605 45 \u29D7 1 - F# typed API for Akka.NET. [Apache 2.0]",
+        "name": "Akkling \u2605 45 \u29D7 1",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/Cricket",
+        "description": "Cricket \u2605 141 \u29D7 380 - Actor framework for F#. [Unlicense]",
+        "name": "Cricket \u2605 141 \u29D7 380",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/OrleansContrib/Orleankka",
+        "description": "Orleankka \u2605 175 \u29D7 5 - Functional API for Orleans Framework. [Apache 2.0]",
+        "name": "Orleankka \u2605 175 \u29D7 5",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/dotnet/orleans",
+        "description": "Orleans \u2605 2754 \u29D7 0 - Distributed Virtual Actor Model. [MIT]",
+        "name": "Orleans \u2605 2754 \u29D7 0",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/AsynkronIT/protoactor-dotnet",
+        "description": "Proto.actor \u2605 692 \u29D7 0 - Cross-platform actor framework for .NET, GO, JAVA and KOTLIN. [Apache 2.0]",
+        "name": "Proto.actor \u2605 692 \u29D7 0",
+        "headers": [
+          "Actor frameworks",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/FAKE",
+        "description": "FAKE \u2605 733 \u29D7 0 - \u0022F# Make\u0022 is a cross platform build automation system. [Apache 2.0]",
+        "name": "FAKE \u2605 733 \u29D7 0",
+        "headers": [
+          "Build tools",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/OlegZee/Xake",
+        "description": "Xake \u2605 8 \u29D7 0 - Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake. [MIT]",
+        "name": "Xake \u2605 8 \u29D7 0",
+        "headers": [
+          "Build tools",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/mrbandler/FsFirestore",
+        "description": "FsFirestore - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase. [MIT]",
+        "name": "FsFirestore",
+        "headers": [
+          "Cloud",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/DanpowerGruppe/Chia",
+        "description": "Chia \u2605 3 \u29D7 0 - Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations. [Apache-2.0]",
+        "name": "Chia \u2605 3 \u29D7 0",
+        "headers": [
+          "Cloud",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Zaid-Ajaj/Hawaii",
+        "description": "Hawaii - A dotnet CLI tool to generate type-safe F# clients from OpenAPI/Swagger services.",
+        "name": "Hawaii",
+        "headers": [
+          "Code Generation",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/FSharp.Compiler.Service",
+        "description": "F# Compiler Services \u2605 159 \u29D7 0 - The F# Compiler, F# Interactive scripting engine and F# editing services as a component library. [Apache 2.0]",
+        "name": "F# Compiler Services \u2605 159 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fable-compiler/Fable",
+        "description": "Fable \u2605 808 \u29D7 0 - F# to JavaScript Compiler. [Apache 2.0]",
+        "name": "Fable \u2605 808 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/kjnilsson/fez",
+        "description": "Fez \u2605 49 \u29D7 0 - F# to Erlang compiler. [MIT]",
+        "name": "Fez \u2605 49 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/fsharp",
+        "description": "FSharp \u2605 1549 \u29D7 0 - The Open Edition of the F# compiler, core library and tools. [Apache 2.0]",
+        "name": "FSharp \u2605 1549 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/ZachBray/FunScript",
+        "description": "FunScript \u2605 446 \u29D7 64 - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider. [Apache-2.0]",
+        "name": "FunScript \u2605 446 \u29D7 64",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/calebh/Juniper",
+        "description": "Juniper \u2605 73 \u29D7 0 - Functional Reactive Programming for the Arduino and other microcontrollers. [MIT]",
+        "name": "Juniper \u2605 73 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/ninjarobot/Pengines.Client",
+        "description": "Pengines.Client \u2605 3 \u29D7 0 - sandboxed Prolog environment. [BSD-2-Clause]",
+        "name": "Pengines.Client \u2605 3 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Microsoft/visualfsharp",
+        "description": "Visual F# \u2605 988 \u29D7 0 - The Visual F# compiler and tools. [Apache 2.0]",
+        "name": "Visual F# \u2605 988 \u29D7 0",
+        "headers": [
+          "Compilers",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/iyyel/fio",
+        "description": "FIO - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming [GNU v3]",
+        "name": "FIO",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Control.AsyncSeq",
+        "description": "FSharp.Control.AsyncSeq \u2605 28 \u29D7 12 - Collection of asynchronous programming utilities for F#. [Apache 2.0]",
+        "name": "FSharp.Control.AsyncSeq \u2605 28 \u29D7 12",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/kekyo/FSharp.Control.FusionTasks",
+        "description": "FSharp.Control.FusionTasks - F# Async workflow \u003C--\u003E .NET Task/ValueTask easy seamless interoperability library.",
+        "name": "FSharp.Control.FusionTasks",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharpx.Async",
+        "description": "FSharpx.Async \u2605 37 \u29D7 56 - Collection of asynchronous programming utilities for F#. [Apache 2.0]",
+        "name": "FSharpx.Async \u2605 37 \u29D7 56",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/giraffe-fsharp/giraffe.tasks",
+        "description": "Giraffe.Tasks \u2605 13 \u29D7 0 - task computation expression to work natively with .NET\u0027s Tasks from an F# application. [Apache 2.0]",
+        "name": "Giraffe.Tasks \u2605 13 \u29D7 0",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Hopac/Hopac",
+        "description": "Hopac \u2605 268 \u29D7 7 - Concurrent ML style concurrent programming library for F#. [MIT]",
+        "name": "Hopac \u2605 268 \u29D7 7",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/crowded/ply",
+        "description": "Ply - High performance System.Threading.(Value)Task computation expressions for F#. [MIT]",
+        "name": "Ply",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/dbrattli/Reaction",
+        "description": "Reaction.AsyncRx - An implementation of Async Observables in F# for .NET and Fable. [MIT]",
+        "name": "Reaction.AsyncRx",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/rspeele/TaskBuilder.fs",
+        "description": "TaskBuilder.fs - F# computation expression builder for System.Threading.Tasks. [CC0]",
+        "name": "TaskBuilder.fs",
+        "headers": [
+          "Concurrent, asynchronous and parallel programming",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/Argu",
+        "description": "Argu \u2605 145 \u29D7 0 - Declarative CLI argument/XML configuration parser for F# applications. [MIT]",
+        "name": "Argu \u2605 145 \u29D7 0",
+        "headers": [
+          "Configuration",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/docopt/docopt.fs/",
+        "description": "docopt.fs \u2605 18 \u29D7 0 - command line arguments parser, F# port of docopt. [MIT]",
+        "name": "docopt.fs \u2605 18 \u29D7 0docopt",
+        "headers": [
+          "Configuration",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/demystifyfp/FsConfig",
+        "description": "FsConfig \u2605 14 \u29D7 1 - F# library for reading configuration data from environment variables and AppSettings with type safety. [Unlicense]",
+        "name": "FsConfig \u2605 14 \u29D7 1",
+        "headers": [
+          "Configuration",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Meyhem/Skid",
+        "description": "Skid \u2605 3 \u29D7 0 - Simple, single-file portable CLI utility for configuration templating. [MIT]",
+        "name": "Skid \u2605 3 \u29D7 0",
+        "headers": [
+          "Configuration",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/BlueMountainCapital/Deedle",
+        "description": "Deedle \u2605 347 \u29D7 21 - Deedle: Exploratory data library for .NET. [BSD-2-Clause]",
+        "name": "Deedle \u2605 347 \u29D7 21",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "http://www.deepml.net",
+        "description": "Deep.Net - Deep learning library for F#. Provides symbolic model differentiation, automatic differentiation and compilation to CUDA GPUs. [Apache 2.0]",
+        "name": "Deep.Net",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/DiffSharp/DiffSharp",
+        "description": "DiffSharp \u2605 106 \u29D7 70 - DiffSharp is a functional automatic differentiation (AD) library. [BSD-2-Clause]",
+        "name": "DiffSharp \u2605 106 \u29D7 70",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fslaborg/FsLab",
+        "description": "FsLab \u2605 97 \u29D7 171 - FsLab is a collection of libraries for data-science. It provides a rapid development environment that lets you write advanced analysis with few lines of production-quality code. [Apache 2.0]",
+        "name": "FsLab \u2605 97 \u29D7 171",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/IfSharp",
+        "description": "IfSharp * 272 \u29D7 1 - F# for Jupyter Notebooks. [BSD-3-Clause]",
+        "name": "IfSharp * 272 \u29D7 1",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/BayesWitnesses/m2cgen",
+        "description": "m2cgen - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies. [MIT]",
+        "name": "m2cgen",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/mathnet/mathnet-numerics",
+        "description": "Math.NET Numerics \u2605 1,923 \u29D7 0 - Math.NET Numerics aims to provide methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available. [MIT]",
+        "name": "Math.NET Numerics \u2605 1,923 \u29D7 0",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/mathnet/mathnet-symbolics/",
+        "description": "Math.NET Symbolics \u2605 203 \u29D7 5 - Math.NET Symbolics is a basic open source computer algebra library for .NET, Silverlight and Mono written entirely in F#. [MIT]",
+        "name": "Math.NET Symbolics \u2605 203 \u29D7 5",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/jackmott/SIMDArray",
+        "description": "SIMDArray \u2605 42 \u29D7 11 - SIMD enhanced Array extensions for faster computation. [MIT]",
+        "name": "SIMDArray \u2605 42 \u29D7 11",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/mrdimosthenis/Synapses",
+        "description": "Synapses - Neural network library in F#. [MIT]",
+        "name": "Synapses",
+        "headers": [
+          "Data Science",
+          " Awesome F#"
+        ]
+      },
+      {
+        "link": "https://github.com/Seng-Jik/FSharpPlayground",
+        "description": "F# Playground - Minimal playground for F#. [GPL 3.0]",
+        "name": "F# Playground",
+        "headers": [
+          "IDE",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://www.jetbrains.com/rider",
+        "description": "Jetbrains Rider - Cross-Platform .Net IDE with F# support. [Proprietary, free for open source projects] ",
+        "name": "Jetbrains Rider",
+        "headers": [
+          "IDE",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "http://www.monodevelop.com/",
+        "description": "MonoDevelop - Cross-platform IDE mostly aimed at Mono/.NET developers. [LGPLv2 and X11/MIT]",
+        "name": "MonoDevelop",
+        "headers": [
+          "IDE",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://www.visualstudio.com/",
+        "description": "Visual Studio - IDE from Microsoft with first class F# support(Windows only). [Proprietary]",
+        "name": "Visual Studio",
+        "headers": [
+          "IDE",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/emacs-fsharp-mode",
+        "description": "Emacs F# mode \u2605 80 \u29D7 27 - F# support in Emacs (including Intellisense and Interactive mode) [Apache 2.0]",
+        "name": "Emacs F# mode \u2605 80 \u29D7 27",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/fsharpbinding",
+        "description": "F# Bindings \u2605 321 \u29D7 261 - Archive of F# Language Bindings for Open Editors. [Apache 2.0]",
+        "name": "F# Bindings \u2605 321 \u29D7 261",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/fantomas",
+        "description": "Fantomas \u2605 472 \u29D7 115 - F# code formatter. [Apache 2.0]",
+        "name": "Fantomas \u2605 472 \u29D7 115",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharpLint",
+        "description": "FSharpLint \u2605 223 \u29D7 55 - F# code linter. [MIT]",
+        "name": "FSharpLint \u2605 223 \u29D7 55",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/nightroman/FarNet",
+        "description": "FSharpFar \u2605 33 \u29D7 54 - F# support for Far Manager. [BSD-3-Clause]",
+        "name": "FSharpFar \u2605 33 \u29D7 54",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "http://ionide.io/",
+        "description": "Ionide - Atom Editor and Visual Studio Code package suite for cross platform F# development. [MIT]",
+        "name": "Ionide",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/vim-fsharp",
+        "description": "Vim F# \u2605 66 \u29D7 3 - F# support for Vim. [MIT]",
+        "name": "Vim F# \u2605 66 \u29D7 3",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/adelarsq/neofsharp.vim",
+        "description": "neofsharp.vim - Basic F# support for (Neo)Vim [MIT]",
+        "name": "neofsharp.vim",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/AshleyF/VimSpeak",
+        "description": "VimSpeak \u2605 305 \u29D7 910 - VimSpeak lets you control Vim with your voice using speech recognition. [MIT]",
+        "name": "VimSpeak \u2605 305 \u29D7 910",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/VisualFSharpPowerTools",
+        "description": "Visual F# Power Tools \u2605 310 \u29D7 53 - Power commands for F# in Visual Studio. [Apache 2.0]",
+        "name": "Visual F# Power Tools \u2605 310 \u29D7 53",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/pablofrommars/fsharp-notebook",
+        "description": "fsharp-notebook - Data Science Notebook for F# interactive. [MIT]",
+        "name": "fsharp-notebook",
+        "headers": [
+          "Editor plugins",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/d-edge/fasm",
+        "description": "fasm - F# jit disassembler, as a dotnet tool [MIT]",
+        "name": "fasm",
+        "headers": [
+          "Performance analysis",
+          "Development Tools"
+        ]
+      },
+      {
+        "link": "https://github.com/xyncro/aether",
+        "description": "Aether \u2605 71 \u29D7 0 - Optics library for F#, similar to the Haskell Data.Lens package. [MIT]",
+        "name": "Aether \u2605 71 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/Chessie",
+        "description": "Chessie \u2605 96 \u29D7 272 - Railway-oriented programming. [Unlicense]",
+        "name": "Chessie \u2605 96 \u29D7 272",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/pimbrouwers/Donald",
+        "description": "Donald - A simple F# interface for ADO.NET. [Apache-2.0]",
+        "name": "Donald",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/Zaid-Ajaj/DustyTables",
+        "description": "DustyTables \u2605 39 \u29D7 6 - Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top [MIT]",
+        "name": "DustyTables \u2605 39 \u29D7 6",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/jack-pappas/ExtCore",
+        "description": "ExtCore \u2605 96 \u29D7 0 - Extended core library for F#. [Apache 2.0]",
+        "name": "ExtCore \u2605 96 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/cmeeren/Fling",
+        "description": "Fling - Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables. [MIT]",
+        "name": "Fling",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/aaronpowell/fsharp.cosmosdb",
+        "description": "FSharp.CosmosDb - An F# wrapper around the CosmosDB SDK, making it more functional-friendly [MIT]",
+        "name": "FSharp.CosmosDb",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/mvkara/fsharp-hashcollections",
+        "description": "FSharp.HashCollections \u2605 4 \u29D7 0 - Library providing fast hash based immutable map and set. [MIT]",
+        "name": "FSharp.HashCollections \u2605 4 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/Microsoft/fsharplu",
+        "description": "FSharpLu \u2605 133 \u29D7 20 - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization. [MIT]",
+        "name": "FSharpLu \u2605 133 \u29D7 20",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/demystifyfp/FsToolkit.ErrorHandling",
+        "description": "FsToolkit.ErrorHandling - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie. [MIT]",
+        "name": "FsToolkit.ErrorHandling",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/tforkmann/Fumble",
+        "description": "Fumble \u2605 30 \u29D7 0 - Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top [MIT]",
+        "name": "Fumble \u2605 30 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/gmpl/FSharpPlus",
+        "description": "FSharpPlus \u2605 142 \u29D7 34 - Extensions for F#. [Apache 2.0]",
+        "name": "FSharpPlus \u2605 142 \u29D7 34",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharpx.Extras",
+        "description": "FSharpx.Extras \u2605 589 \u29D7 28 - FSharpx.Extras is a collection of libraries and tools for use with F#. [Unlicense]",
+        "name": "FSharpx.Extras \u2605 589 \u29D7 28",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/Zaid-Ajaj/LiteDB.FSharp",
+        "description": "LiteDB.FSharp - F# Support for LiteDB, an embedded single file database for .NET [MIT]",
+        "name": "LiteDB.FSharpLiteDB",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/Zaid-Ajaj/Npgsql.FSharp",
+        "description": "Npgsql.FSharp - Thin F# wrapper around Npgsql, the PostgreSQL database driver [MIT]",
+        "name": "Npgsql.FSharpNpgsql",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/eiriktsarpalis/TypeShape",
+        "description": "TypeShape \u2605 64 \u29D7 0 - Small, extensible F# library for practical generic programming. [MIT]",
+        "name": "TypeShape \u2605 64 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/pimbrouwers/Validus",
+        "description": "Validus - A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.",
+        "name": "Validus",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/veepee-oss/Vp.FSharp.Sql",
+        "description": "Vp.FSharp.Sql - Generic F# ADO Provider Wrapper (SqlServer, PostgreSql, Sqlite). [MIT]",
+        "name": "Vp.FSharp.Sql",
+        "headers": [
+          "Performance analysis",
+          "General purpose libraries"
+        ]
+      },
+      {
+        "link": "https://github.com/FsUnity",
+        "description": "FsUnity - F# Libraries, Tools, and Plugins for the Unity3d Game Engine. [Unilicense]",
+        "name": "FsUnity",
+        "headers": [
+          "Performance analysis",
+          "Game development"
+        ]
+      },
+      {
+        "link": "https://github.com/bcarruthers/garnet",
+        "description": "Garnet \u2605 15 \u29D7 6 - Garnet is a lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features. [MIT]",
+        "name": "Garnet \u2605 15 \u29D7 6",
+        "headers": [
+          "Performance analysis",
+          "Game development"
+        ]
+      },
+      {
+        "link": "http://www.lkokemohr.de/fsharp_godot.html",
+        "description": "Godot - Tutorial how to use F# with Godot. ",
+        "name": "Godot",
+        "headers": [
+          "Performance analysis",
+          "Game development"
+        ]
+      },
+      {
+        "link": "https://github.com/bryanedds/Nu",
+        "description": "Nu Game Engine \u2605 502 \u29D7 9 - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics. [MIT]",
+        "name": "Nu Game Engine \u2605 502 \u29D7 9",
+        "headers": [
+          "Performance analysis",
+          "Game development"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/Avalonia.FuncUI",
+        "description": "Avalonia.FuncUI - Develop cross-platform MVU GUI Applications using F# and Avalonia",
+        "name": "Avalonia.FuncUI",
+        "headers": [
+          "Performance analysis",
+          "GUI"
+        ]
+      },
+      {
+        "link": "https://github.com/kekyo/epoxy",
+        "description": "Epoxy - An independent flexible XAML MVVM library for .NET",
+        "name": "Epoxy",
+        "headers": [
+          "Performance analysis",
+          "GUI"
+        ]
+      },
+      {
+        "link": "https://github.com/fabulous-dev/Fabulous",
+        "description": "Fabulous - F# Functional App Development, using declarative dynamic UI",
+        "name": "Fabulous",
+        "headers": [
+          "Performance analysis",
+          "GUI"
+        ]
+      },
+      {
+        "link": "https://github.com/haf/Http.fs",
+        "description": "Http.fs - A simple, functional HTTP client library for F#",
+        "name": "Http.fs",
+        "headers": [
+          "Performance analysis",
+          "HTTP Clients"
+        ]
+      },
+      {
+        "link": "https://github.com/ronaldschlenker/FsHttp",
+        "description": "FsHttp - A convenient library for consuming HTTP/REST endpoints via F#. [Apache 2.0]",
+        "name": "FsHttp",
+        "headers": [
+          "Performance analysis",
+          "HTTP Clients"
+        ]
+      },
+      {
+        "link": "https://github.com/cognitedata/oryx",
+        "description": "Oryx - A high performance .NET cross platform functional HTTP request handler library for writing HTTP clients and orchestrating web requests. [Apache 2.0]",
+        "name": "Oryx",
+        "headers": [
+          "Performance analysis",
+          "HTTP Clients"
+        ]
+      },
+      {
+        "link": "https://github.com/TheAngryByrd/FsLibLog",
+        "description": "FsLibLog \u2605 26 \u29D7 0 - FsLibLog is a single file you can copy paste or add through Paket Github dependencies to provide your F# library with a logging abstraction. [MIT]",
+        "name": "FsLibLog \u2605 26 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Logging"
+        ]
+      },
+      {
+        "link": "https://github.com/logary/logary/",
+        "description": "Logary \u2605 259 \u29D7 0 - Logary is a high performance, multi-target logging, metric, tracing and health-check library for mono and .Net. [Apache 2.0]",
+        "name": "Logary \u2605 259 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Logging"
+        ]
+      },
+      {
+        "link": "https://www.nuget.org/",
+        "description": "NuGet - NuGet is the package manager for the Microsoft development platform including .NET. [Apache 2.0]",
+        "name": "NuGet",
+        "headers": [
+          "Performance analysis",
+          "Package Management"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/Paket",
+        "description": "Paket \u2605 903 \u29D7 0 - Dependency manager for .NET with support for NuGet packages and Git repositories. [MIT]",
+        "name": "Paket \u2605 903 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Package Management"
+        ]
+      },
+      {
+        "link": "https://github.com/stephan-tolksdorf/fparsec",
+        "description": "FParsec \u2605 50 \u29D7 0 - FParsec is a parser combinator library for F#. [BSD-2-Clause]",
+        "name": "FParsec \u2605 50 \u29D7 0BSD-2-Clause",
+        "headers": [
+          "Performance analysis",
+          "Parsing"
+        ]
+      },
+      {
+        "link": "https://github.com/haf/FsAttoparsec",
+        "description": "FsAttoparsec \u2605 1 \u29D7 0 - Port of Bryan O\u0027Sullivan\u0027s attoparsec from Haskell to F#. [BSD-3-Clause]",
+        "name": "FsAttoparsec \u2605 1 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Parsing"
+        ]
+      },
+      {
+        "link": "https://github.com/corsis/XParsec",
+        "description": "XParsec \u2605 29 \u29D7 2 - Extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0. [BSD-3-Clause]",
+        "name": "XParsec \u2605 29 \u29D7 2",
+        "headers": [
+          "Performance analysis",
+          "Parsing"
+        ]
+      },
+      {
+        "link": "https://github.com/MoiraeSoftware/myriad",
+        "description": "Myriad \u2605 38 \u29D7 4 - Myriad is a pre-compilation code generator",
+        "name": "Myriad \u2605 38 \u29D7 4",
+        "headers": [
+          "Performance analysis",
+          "PreCompilation"
+        ]
+      },
+      {
+        "link": "https://github.com/jet/FsCodec",
+        "description": "FsCodec \u2605 21 \u29D7 7 - F# Event-Union Contract Encoding with versioning tolerant converters. [Apache 2.0]",
+        "name": "FsCodec \u2605 21 \u29D7 7",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/vsapronov/FSharp.Json",
+        "description": "FSharp.Json \u2605 72 \u29D7 15 - F# JSON Reflection based serialization library. [Apache-2.0]",
+        "name": "FSharp.Json \u2605 72 \u29D7 15",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/Tarmil/FSharp.SystemTextJson",
+        "description": "FSharp.SystemTextJson \u2605 36 \u29D7 0 - System.Text.Json extensions for F# types. [MIT]",
+        "name": "FSharp.SystemTextJson \u2605 36 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/mausch/Fleece",
+        "description": "Fleece \u2605 94 \u29D7 76 - Fleece is a JSON mapper for F#. It simplifies mapping from a Json library\u0027s JsonValue onto your types, and mapping from your types onto JsonValue. [Apache-2.0]",
+        "name": "Fleece \u2605 94 \u29D7 76",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/mbraceproject/FsPickler",
+        "description": "FsPickler \u2605 195 \u29D7 13 - Fast, multi-format messaging serializer for .NET. [MIT]",
+        "name": "FsPickler \u2605 195 \u29D7 13",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/fjoppe/Legivel",
+        "description": "Legivel \u2605 19 \u29D7 4 - F# Yaml 1.2 parser. [Unlicense]",
+        "name": "Legivel \u2605 19 \u29D7 4",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://thoth-org.github.io/Thoth.Json/",
+        "description": "Thoth.Json \u2605 40 \u29D7 11 - Json encoder/decoder library inspire by Elm. [MIT]",
+        "name": "Thoth.Json \u2605 40 \u29D7 11",
+        "headers": [
+          "Performance analysis",
+          "Serialization"
+        ]
+      },
+      {
+        "link": "https://github.com/flexsearch/flexsearch",
+        "description": "FlexSearch \u2605 133 \u29D7 14 - high performance REST/SOAP services based full-text searching platform built on top of the popular Lucene search library. [Apache 2.0]",
+        "name": "FlexSearch \u2605 133 \u29D7 14",
+        "headers": [
+          "Performance analysis",
+          "Search"
+        ]
+      },
+      {
+        "link": "https://github.com/mrLSD/riscv-fs",
+        "description": "F# RISC-V Instruction Set formal specification - RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution. [MIT]",
+        "name": "F# RISC-V Instruction Set formal specification",
+        "headers": [
+          "Performance analysis",
+          "Simulation"
+        ]
+      },
+      {
+        "link": "https://github.com/SteveGilham/altcover",
+        "description": "altcover \u2605 139 \u29D7 0 - Cross-platform coverage gathering and processing tool set for .net/.net core and Mono. [MIT]",
+        "name": "altcover \u2605 139 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/lefthandedgoat/canopy",
+        "description": "canopy \u2605 304 \u29D7 2 - F# web automation and testing framework. [MIT]",
+        "name": "canopy \u2605 304 \u29D7 2",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/haf/expecto",
+        "description": "Expecto \u2605 124 \u29D7 2 - Smooth testing framework for F# with tests-as-values and parallelism by default. [Apache 2.0]",
+        "name": "Expecto \u2605 124 \u29D7 2",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/fscheck/FsCheck",
+        "description": "FsCheck \u2605 415 \u29D7 34 - Random Testing for .NET. [BSD-3-Clause]",
+        "name": "FsCheck \u2605 415 \u29D7 34",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/hedgehogqa/fsharp-hedgehog",
+        "description": "fsharp-hedgehog \u2605 42 \u29D7 4 - Property-based testing system for F#. [Apache 2.0]",
+        "name": "fsharp-hedgehog \u2605 42 \u29D7 4",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FsUnit",
+        "description": "FsUnit \u2605 340 \u29D7 86 - FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework. [MIT]",
+        "name": "FsUnit \u2605 340 \u29D7 86",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/PragmaticFlow/NBomber",
+        "description": "NBomber \u2605 14 \u29D7 23 - simple load testing framework for Pull and Push scenarios. [Apache 2.0]",
+        "name": "NBomber \u2605 14 \u29D7 23",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/persimmon-projects/Persimmon",
+        "description": "Persimmon \u2605 29 \u29D7 9 - Unit test framework for F# using computation expressions. [MIT]",
+        "name": "Persimmon \u2605 29 \u29D7 9",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/swensensoftware/unquote",
+        "description": "unquote \u2605 88 \u29D7 17 - Write F# unit test assertions as quoted expressions. [Apache 2.0]",
+        "name": "unquote \u2605 88 \u29D7 17",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://xunit.github.io/",
+        "description": "xUnit.net - Free, open source, community-focused unit testing tool for the .NET Framework. [Apache 2.0]",
+        "name": "xUnit.net",
+        "headers": [
+          "Performance analysis",
+          "Testing"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/ApiaryProvider",
+        "description": "ApiaryProvider \u2605 9 \u29D7 380 - Type provider for Apiary.io. [Apache 2.0]",
+        "name": "ApiaryProvider \u2605 9 \u29D7 380",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/AzureStorageTypeProvider",
+        "description": "AzureStorageTypeProvider \u2605 45 \u29D7 20 - F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them. [Unilicense]",
+        "name": "AzureStorageTypeProvider \u2605 45 \u29D7 20",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Interop.ComProvider",
+        "description": "COM Type Provider \u2605 36 \u29D7 330 - Type provider for COM interop. [Unilicense]",
+        "name": "COM Type Provider \u2605 36 \u29D7 330",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/DynamicsCRMProvider",
+        "description": "DynamicsCRMProvider \u2605 8 \u29D7 380 - Type provider for Microsoft Dynamics CRM 2011. [Apache 2.0]",
+        "name": "DynamicsCRMProvider \u2605 8 \u29D7 380",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/ExcelProvider",
+        "description": "ExcelProvider \u2605 45 \u29D7 75 - Excel type provider. [Unilicense]",
+        "name": "ExcelProvider \u2605 45 \u29D7 75",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/cmeeren/Facil",
+        "description": "Facil - Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness. [MIT]",
+        "name": "Facil",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Configuration",
+        "description": "FSharp.Configuration \u2605 60 \u29D7 6 - The project contains type providers for the configuration of .NET projects. Handles AppSettings, ResX, Yaml and Ini files. [Apache 2.0]",
+        "name": "FSharp.Configuration \u2605 60 \u29D7 6",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/FSharp.Data",
+        "description": "FSharp.Data \u2605 375 \u29D7 8 - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data. [Apache 2.0]",
+        "name": "FSharp.Data \u2605 375 \u29D7 8",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Data.DbPedia",
+        "description": "FSharp.Data.DbPedia \u2605 9 \u29D7 379 - F# type provider for DBpedia. [Unilicense]",
+        "name": "FSharp.Data.DbPedia \u2605 9 \u29D7 379",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Data.HiveProvider",
+        "description": "FSharp.Data.HiveProvider \u2605 8 \u29D7 379 - Demonstrator F# type provider for Apache Hive. [Apache 2.0]",
+        "name": "FSharp.Data.HiveProvider \u2605 8 \u29D7 379",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/demetrixbio/FSharp.Data.Npgsql",
+        "description": "FSharp.Data.Npgsql \u2605 6 \u29D7 1 - F# type providers library on a top of well-known Npgsql ADO.NET client library. [Apache 2.0]",
+        "name": "FSharp.Data.Npgsql \u2605 6 \u29D7 1",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Data.SqlClient",
+        "description": "FSharp.Data.SqlClient \u2605 121 \u29D7 16 - F# Type Provider for statically typed access to T-SQL command parameters and result set. [Apache 2.0]",
+        "name": "FSharp.Data.SqlClient \u2605 121 \u29D7 16",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/mettekou/FSharp.Data.Tdms",
+        "description": "FSharp.Data.Tdms \u2605 0 \u29D7 1 - TDMS support for F# [MIT]",
+        "name": "FSharp.Data.Tdms \u2605 0 \u29D7 1",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Data.Toolbox",
+        "description": "FSharp.Data.Toolbox \u2605 38 \u29D7 7 - Library for various data access APIs based on FSharp.Data. The library currently includes the Twitter type provider for access to Twitter users and feeds, and SAS type provider to read SAS dataset files. [Apache 2.0]",
+        "name": "FSharp.Data.Toolbox \u2605 38 \u29D7 7",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Data.TypeProviders",
+        "description": "FSharp.Data.TypeProviders \u2605 9 \u29D7 379 - Library that contains type providers for .edmx files, .dbml files, WSDL services, OData services, and SQL databases. [Unilicense]",
+        "name": "FSharp.Data.TypeProviders \u2605 9 \u29D7 379",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Management",
+        "description": "FSharp.Management \u2605 59 \u29D7 1 - The project contains various type providers for the management of the machine. Handles file system, registry,  Windows Management Instrumentation, PowerShell and SystemTimeZones. [Apache 2.0]",
+        "name": "FSharp.Management \u2605 59 \u29D7 1",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.Text.RegexProvider",
+        "description": "FSharp.Text.RegexProvider \u2605 29 \u29D7 285 - Type provider for regular expressions. [Apache 2.0]",
+        "name": "FSharp.Text.RegexProvider \u2605 29 \u29D7 285",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FsXaml",
+        "description": "FsXaml \u2605 158 \u29D7 453 - F# Tools for working with XAML Projects. [MIT]",
+        "name": "FsXaml \u2605 158 \u29D7 453",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/bleis-tift/FsYaml",
+        "description": "FsYaml \u2605 33 \u29D7 41 - Typed Yaml library for F#. [NYSL Version 0.9982]",
+        "name": "FsYaml \u2605 33 \u29D7 41",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/GraphProvider",
+        "description": "GraphProvider \u2605 21 \u29D7 379 - .dgml state machine type provider. [Apache 2.0]",
+        "name": "GraphProvider \u2605 21 \u29D7 379",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/matprovider",
+        "description": "MatDataProvider \u2605 6 \u29D7 378 - Erased type provider for .mat files (binary MATLAB format files). [Apache 2.0]",
+        "name": "MatDataProvider \u2605 6 \u29D7 378",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/BlueMountainCapital/FSharpRProvider",
+        "description": "R Type Provider \u2605 159 \u29D7 365 - Type provider to interop with R. [BSD-2-Clause]",
+        "name": "R Type Provider \u2605 159 \u29D7 365",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/rspeele/Rezoom.SQL",
+        "description": "Rezoom.SQL \u2605 7 \u29D7 0 - Statically typed SQL for F#. [MIT]",
+        "name": "Rezoom.SQL \u2605 7 \u29D7 0",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/S3Provider",
+        "description": "S3Provider \u2605 16 \u29D7 379 - Experimental type provider for Amazon S3. [MIT]",
+        "name": "S3Provider \u2605 16 \u29D7 379",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/SQLProvider",
+        "description": "SQLProvider \u2605 192 \u29D7 7 - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides. [Apache 2.0]",
+        "name": "SQLProvider \u2605 192 \u29D7 7",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/SwaggerProvider",
+        "description": "SwaggerProvider \u2605 81 \u29D7 3 - F# generative Type Provider for Swagger. [Unilicense]",
+        "name": "SwaggerProvider \u2605 81 \u29D7 3",
+        "headers": [
+          "Performance analysis",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/FSharp.TypeProviders.StarterPack",
+        "description": "FSharp.TypeProviders.StarterPack \u2605 104 \u29D7 42 - The ProvidedTypes SDK for creating F# type providers. [Apache 2.0]",
+        "name": "FSharp.TypeProviders.StarterPack \u2605 104 \u29D7 42",
+        "headers": [
+          "Creating type providers",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fsprojects/RestProvider",
+        "description": "RestProvider \u2605 14 \u29D7 258 - Create type providers just by implementing a simple REST service. [Apache 2.0]",
+        "name": "RestProvider \u2605 14 \u29D7 258",
+        "headers": [
+          "Creating type providers",
+          "Type providers"
+        ]
+      },
+      {
+        "link": "https://github.com/fslaborg/FSharp.Charting",
+        "description": "FSharp.Charting \u2605 186 \u29D7 0 - Charting library suitable for interactive F# scripting. [MIT]",
+        "name": "FSharp.Charting \u2605 186 \u29D7 0",
+        "headers": [
+          "Creating type providers",
+          "Visualization"
+        ]
+      },
+      {
+        "link": "https://github.com/ChrisNikkel/SharpVG",
+        "description": "SharpVG \u2605 32 \u29D7 0 - Create SVG vector graphics in F#. [MIT]",
+        "name": "SharpVG \u2605 32 \u29D7 0",
+        "headers": [
+          "Creating type providers",
+          "Visualization"
+        ]
+      },
+      {
+        "link": "https://github.com/fslaborg/XPlot",
+        "description": "XPlot \u2605 173 \u29D7 0 - A plotting library for the F# programming language. [Apache 2.0]",
+        "name": "XPlot \u2605 173 \u29D7 0",
+        "headers": [
+          "Creating type providers",
+          "Visualization"
+        ]
+      },
+      {
+        "link": "https://github.com/pablofrommars/GGNet",
+        "description": "GG.Net - Visualization library for data scientists. [MIT]",
+        "name": "GG.Net",
+        "headers": [
+          "Creating type providers",
+          "Visualization"
+        ]
+      },
+      {
+        "link": "https://github.com/plotly/Plotly.NET",
+        "description": "Plotly.NET - A Plotly-based general purpose plotting library for F#. [MIT]",
+        "name": "Plotly.NET",
+        "headers": [
+          "Creating type providers",
+          "Visualization"
+        ]
+      },
+      {
+        "link": "https://github.com/fsbolero/Bolero/",
+        "description": "Bolero \u2605 629 - F# in WebAssembly, develop SPAs with the full power of F# and .NET Blazor. [Apache 2.0]",
+        "name": "Bolero \u2605 629",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/pimbrouwers/Falco/",
+        "description": "Falco - A functional-first toolkit for building brilliant ASP.NET Core applications using F#.",
+        "name": "Falco",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/cmeeren/Felicity",
+        "description": "Felicity - Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness. [MIT]",
+        "name": "Felicity",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/xyncro/freya",
+        "description": "Freya \u2605 241 \u29D7 7 - Modern, purely functional stack for web programming in F#. [Apache 2.0]",
+        "name": "Freya \u2605 241 \u29D7 7",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/lefthandedgoat/genit",
+        "description": "Genit \u2605 62 \u29D7 1 - Cross-platform website generator and server using F#, Suave and PostgreSQL or MS SQL Server.",
+        "name": "Genit \u2605 62 \u29D7 1",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/giraffe-fsharp/Giraffe",
+        "description": "Giraffe \u2605 526 \u29D7 49 - Native functional ASP.NET Core web framework for F# developers. [Apache 2.0]",
+        "name": "Giraffe \u2605 526 \u29D7 49",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/SaturnFramework/Saturn",
+        "description": "Saturn \u2605 62 \u29D7 2 - Opinionated, web development framework for F# which implements the server-side, functional MVC pattern. [MIT]",
+        "name": "Saturn \u2605 62 \u29D7 2",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/SuaveIO/suave",
+        "description": "Suave \u2605 756 \u29D7 2 - Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition. [Apache 2.0]",
+        "name": "Suave \u2605 756 \u29D7 2",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/intellifactory/websharper",
+        "description": "WebSharper \u2605 270 \u29D7 7 - F#-based web programming platform including a compiler from F# code to JavaScript. [Apache 2.0]",
+        "name": "WebSharper \u2605 270 \u29D7 7",
+        "headers": [
+          "Creating type providers",
+          "Web frameworks"
+        ]
+      },
+      {
+        "link": "https://github.com/MNie/FSharpNetCoreWebApiTemplate",
+        "description": "ASP.NET Core WebAPI F# Template dotnet new -i WebAPI.FSharp.Template::*",
+        "name": "ASP.NET Core WebAPI F# Template",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/MNie/Expecto.Template",
+        "description": "Expecto Template dotnet new -i Expecto.Template::*",
+        "name": "Expecto Template",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "http://fable.io",
+        "description": "Fable, F# |\u003E Babel dotnet new -i Fable.Template::*",
+        "name": "Fable, F# |\u003E Babel",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/fable-compiler/fable-elmish",
+        "description": "Fable-elmish dotnet new -i Fable.Template.Elmish.React::*",
+        "name": "Fable-elmish",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://freya.io",
+        "description": "Freya dotnet new --install Freya.Template::*",
+        "name": "Freya",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/giraffe-fsharp/giraffe-template",
+        "description": "Giraffe Template (Quick install: dotnet new -i \u0022giraffe-template::*\u0022)",
+        "name": "Giraffe Template",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/TheAngryByrd/MiniScaffold",
+        "description": "MiniScaffold \nF# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)\ndotnet new -i MiniScaffold::*\n\n",
+        "name": "MiniScaffold",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "description": "F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6)",
+        "name": "",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "description": "dotnet new -i MiniScaffold::*",
+        "name": "",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/MNie/NancyFxCore",
+        "description": "NancyFx Template dotnet new -i NancyFx.Core.Template::*",
+        "name": "NancyFx Template",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/SAFE-Stack/SAFE-template",
+        "description": "SAFE Stack Template dotnet new -i SAFE.Template::*",
+        "name": "SAFE Stack Template",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://github.com/vbfox/FSharpTemplates",
+        "description": "vbfox\u0027s F# Templates\nF# Template for creating github project with appveyor and travis support\n\n",
+        "name": "vbfox\u0027s F# Templates",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "description": "F# Template for creating github project with appveyor and travis support",
+        "name": "",
+        "headers": [
+          "Creating type providers",
+          ".Net Core Templates"
+        ]
+      },
+      {
+        "link": "https://devblogs.microsoft.com/dotnet/tag/f/",
+        "description": ".NET Blog (F# tag)",
+        "name": ".NET Blog (F# tag)",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://codesuji.com",
+        "description": "Codesuji",
+        "name": "Codesuji",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://kcieslak.io/",
+        "description": "Krzysztof Cieslak",
+        "name": "Krzysztof Cieslak",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://blog.ploeh.dk/",
+        "description": "Mark Seemann",
+        "name": "Mark Seemann",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://sergeytihon.wordpress.com/",
+        "description": "Sergey Tihon (F# Weekly)",
+        "name": "Sergey Tihon (F# Weekly)",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://tomasp.net/blog/",
+        "description": "Tomas Petricek",
+        "name": "Tomas Petricek",
+        "headers": [
+          "Blogs",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.manning.com/books/f-sharp-in-action",
+        "description": "F# in Action",
+        "name": "F# in Action",
+        "headers": [
+          "Books",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fsprojects.github.io/fsharp-cheatsheet/",
+        "description": "F# cheatsheet",
+        "name": "F# cheatsheet",
+        "headers": [
+          "Cheatsheets",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fssnip.net/",
+        "description": "F# Snips",
+        "name": "F# Snips",
+        "headers": [
+          "Cheatsheets",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour",
+        "description": "F# tour",
+        "name": "F# tour",
+        "headers": [
+          "Cheatsheets",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://learnxinyminutes.com/docs/fsharp",
+        "description": "Learn F# in Y minutes",
+        "name": "Learn F# in Y minutes",
+        "headers": [
+          "Cheatsheets",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://forums.fsharp.org/",
+        "description": "F# on Discourse",
+        "name": "F# on Discourse",
+        "headers": [
+          "Community",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://github.com/fsharp/",
+        "description": "F# on Github",
+        "name": "F# on Github",
+        "headers": [
+          "Community",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://webchat.freenode.net/?channels=%23%23fsharp",
+        "description": "F# on IRC",
+        "name": "F# on IRC",
+        "headers": [
+          "Community",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fsharp.org/guides/slack/",
+        "description": "F# on Slack",
+        "name": "F# on Slack",
+        "headers": [
+          "Community",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://t.me/fsharp_news",
+        "description": "F# news on Telegram",
+        "name": "F# news on Telegram",
+        "headers": [
+          "Community",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://github.com/quozd/awesome-dotnet",
+        "description": "Awesome .NET! \u2605 4458 \u29D7 2 - Collection of awesome .NET libraries, tools, frameworks and software. [CC0 1.0]",
+        "name": "Awesome .NET! \u2605 4458 \u29D7 2",
+        "headers": [
+          "Other Lists",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://github.com/kunjee17/awesome-fable",
+        "description": "Awesome Fable - Curated list of useful Fable tutorials, libraries and software. [CC0 1.0]",
+        "name": "Awesome Fable",
+        "headers": [
+          "Other Lists",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fsharp.org/community/projects/",
+        "description": "F# Community Projects - FSharp community projects",
+        "name": "F# Community Projects",
+        "headers": [
+          "Other Lists",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://fsharpforfunandprofit.com/",
+        "description": "F# for fun and profit",
+        "name": "F# for fun and profit",
+        "headers": [
+          "Other Lists",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://wtfsharp.net",
+        "description": "WTF# - podcast focused on F# and its ecosystem",
+        "name": "WTF#",
+        "headers": [
+          "Other Lists",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://c4fsharp.net/",
+        "description": "Community for F# - Links to dojos and recordings of community presentations.",
+        "name": "Community for F#",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://jindraivanek.gitlab.io/cs2fs-online",
+        "description": "cs2fs - Transform C# code to F# code",
+        "name": "cs2fs",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.decompiler.com/",
+        "description": "Decompiler.com - Online C#/VB/F# decompiler",
+        "name": "Decompiler.com",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://dotnetfiddle.net/",
+        "description": "DotNetFiddle - Online REPL",
+        "name": "DotNetFiddle",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fsharp.github.io/",
+        "description": "F# Core Engineering",
+        "name": "F# Core Engineering",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://fsharpforfunandprofit.com/",
+        "description": "F# for Fun and Profit - Reference tutorials",
+        "name": "F# for Fun and Profit",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://fsharp.org/",
+        "description": "F# Software Foundation - Main website",
+        "name": "F# Software Foundation",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://fsprojects.github.io/fantomas-tools",
+        "description": "fantomas-tools - A set of Fantomas related tools like AST viewer and online bug reporter.",
+        "name": "fantomas-tools",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://sharplab.io/",
+        "description": "SharpLab - C#/VB/F# compiler playground.",
+        "name": "SharpLab",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://www.tryfsharp.org",
+        "description": "Try F# - Online tutorials, currently without execution of code due to Silverlight dependency",
+        "name": "Try F#",
+        "headers": [
+          "Websites",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://usergroup.tv/videos/category/group/austin-f-meetup",
+        "description": "Austin F# Meetup Group Recorded Presentations",
+        "name": "Austin F# Meetup Group Recorded Presentations",
+        "headers": [
+          "Videos",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=1ioGr701c5Q\u0026list=PLqWncHdBPoD4YEWoXQlRj1tiTc96HZxH8",
+        "description": "Intro to F#",
+        "name": "Intro to F#",
+        "headers": [
+          "Videos",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=KMR2y1vcO-s\u0026list=PLqWncHdBPoD4-d_VSZ0MB0IBKQY0rwYLd",
+        "description": "Fast Dictionary in F#",
+        "name": "Fast Dictionary in F#",
+        "headers": [
+          "Videos",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=EIBRoNEpg6c\u0026list=PLqWncHdBPoD4O1sr2Q3W9gAuJ30s09U2r",
+        "description": "F# Chats on performance",
+        "name": "F# Chats on performance",
+        "headers": [
+          "Videos",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.youtube.com/playlist?list=PLqWncHdBPoD5hEK31CcfmTHP-7icw2Xd0",
+        "description": "Topological Sort",
+        "name": "Topological Sort",
+        "headers": [
+          "Videos",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://www.udemy.com/course/data-programming-with-f/",
+        "description": "Data programming with F#",
+        "name": "Data programming with F#",
+        "headers": [
+          "Courses",
+          "Resources"
+        ]
+      },
+      {
+        "link": "http://www.fsharpworkshop.com/",
+        "description": "F# workshop",
+        "name": "F# workshop",
+        "headers": [
+          "Courses",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://fsharp.tv/courses/fsharp-programming-intro/",
+        "description": "Introduction to F#",
+        "name": "Introduction to F#",
+        "headers": [
+          "Courses",
+          "Resources"
+        ]
+      },
+      {
+        "link": "https://write-yourself-a-scheme.pangwa.com/",
+        "description": "Write yourself a scheme in 48 hours using F#",
+        "name": "Write yourself a scheme in 48 hours using F#",
+        "headers": [
+          "Courses",
+          "Resources"
+        ]
+      }
+    ]
+  },
+  {
+    "filename": "awesome-knowledge-graph.md",
+    "data": [
+      {
+        "link": "#infrastructure",
+        "description": "Infrastructure\nGraph Databases\nTriple Stores \nGraph Computing Frameworks\nGraph Visualization\nGraph Construction\nLanguages\nManaged Hosting Services\n\n",
+        "name": "InfrastructureGraph DatabasesTriple StoresGraph Computing FrameworksGraph VisualizationGraph ConstructionLanguagesManaged Hosting Services",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#graph-databases",
+        "description": "Graph Databases",
+        "name": "Graph Databases",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#triple-stores",
+        "description": "Triple Stores ",
+        "name": "Triple Stores",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#graph-computing-frameworks",
+        "description": "Graph Computing Frameworks",
+        "name": "Graph Computing Frameworks",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#graph-visualization",
+        "description": "Graph Visualization",
+        "name": "Graph Visualization",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#graph-construction",
+        "description": "Graph Construction",
+        "name": "Graph Construction",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#languages",
+        "description": "Languages",
+        "name": "Languages",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#managed-hosting-services",
+        "description": "Managed Hosting Services",
+        "name": "Managed Hosting Services",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#knowledge-engineering",
+        "description": "Knowledge Engineering\nKnowledge Fusion\n\n",
+        "name": "Knowledge EngineeringKnowledge Fusion",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#knowledge-fusion",
+        "description": "Knowledge Fusion",
+        "name": "Knowledge Fusion",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#knowledge-graph-dataset",
+        "description": "Knowledge Graph Dataset\nGeneral\nSemantic Network\nAcademic\n\n",
+        "name": "Knowledge Graph DatasetGeneralSemantic NetworkAcademic",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#general",
+        "description": "General",
+        "name": "General",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#semantic-network",
+        "description": "Semantic Network",
+        "name": "Semantic Network",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#academic",
+        "description": "Academic",
+        "name": "Academic",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#learning-materials",
+        "description": "Learning Materials\nOfficial Documentations\nCommunity Effort\n\n",
+        "name": "Learning MaterialsOfficial DocumentationsCommunity Effort",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#official-documentations",
+        "description": "Official Documentations",
+        "name": "Official Documentations",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "#community-effort",
+        "description": "Community Effort",
+        "name": "Community Effort",
+        "headers": [
+          "Contents",
+          "Awesome Knowledge Graph "
+        ]
+      },
+      {
+        "link": "https://bitnine.net/agensgraph/",
+        "description": "AgensGraph - multi-model graph database with SQL and Cypher support based on PostgreSQL",
+        "name": "AgensGraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.arangodb.com/",
+        "description": "ArangoDB - highly available Multi-Model NoSQL database",
+        "name": "ArangoDB",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://crates.io/crates/atomic-server/",
+        "description": "Atomic-Server - open-source type-safe graph database server with GUI, written in rust. Supports Atomic Data, JSON \u0026 RDF.",
+        "name": "Atomic-ServerAtomic Data",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/blazegraph/database",
+        "description": "Blazegraph - GPU accelerated graph database",
+        "name": "Blazegraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/cayleygraph/cayley",
+        "description": "Cayley - open source database written in Go",
+        "name": "Cayley",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction",
+        "description": "CosmosDB - cloud-based multi-model database with support for TinkerPop3",
+        "name": "CosmosDB",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://dgraph.io",
+        "description": "Dgraph - Fast, Transactional, Distributed Graph Database (open source, written in Go)",
+        "name": "Dgraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.datastax.com/products/datastax-enterprise-graph",
+        "description": "DSE Graph - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)",
+        "name": "DSE Graph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://vaticle.com/",
+        "description": "TypeDB - a database with a rich and logical type system. ",
+        "name": "TypeDB",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/google/graphd",
+        "description": "Graphd - the Metaweb/Freebase Graph Repository",
+        "name": "Graphd",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://janusgraph.org",
+        "description": "JanusGraph - an open-source, distributed graph database with pluggable storage and indexing backends",
+        "name": "JanusGraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://memgraph.com/",
+        "description": "Memgraph - High Performance, In-Memory, Transactional Graph Database",
+        "name": "Memgraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://tinkerpop.apache.org/docs/currentg/#neo4j-gremlin",
+        "description": "Neo4j - OLTP graph database",
+        "name": "Neo4j",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://www.sparsity-technologies.com/#sparksee",
+        "description": "Sparksee - makes space and performance compatible with a small footprint and a fast analysis of large networks",
+        "name": "Sparksee",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://stardog.com/",
+        "description": "Stardog - RDF graph database with OLTP and OLAP support",
+        "name": "Stardog",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://orientdb.com/orientdb/",
+        "description": "OrientDB - Distributed Multi-Model NoSQL Database with a Graph Database Engine",
+        "name": "OrientDB",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.tigergraph.com",
+        "description": "TigerGraph - a complete, distributed, parallel graph computing platform for enterprise, supporting web-scale data analytics in real-time. ",
+        "name": "TigerGraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://nebula-graph.io/",
+        "description": "Nebula Graph - A truly distributed, linear scalable, lightning-fast graph database, using SQL-like query language. ",
+        "name": "Nebula Graph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/hugegraph/hugegraph",
+        "description": "HugeGraph - An open source TinkerPop 3 compliant OLTP Graph Database with pluggable storage bakcend which is similar to JanusGraph. It also supports OLAP through Spark GraphX. ",
+        "name": "HugeGraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://diffbot.com/products/knowledge-graph",
+        "description": "Diffbot - One of three Western entities to crawl a majority of the web. Largest commercially available knowledge graph. ",
+        "name": "Diffbot",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.weaverhq.com/",
+        "description": "Weaver - A graph database built on top of Postgres, which allows you to query the dataset in both SQL and graph query languages including SQL, SPARQL, and GraphQL.",
+        "name": "Weaver",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://kuzudb.com/",
+        "description": "Kuzu - A highly scalable, extremely fast, and very easy-to-use embeddable graph database.",
+        "name": "Kuzu",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://cogdb.io/",
+        "description": "CogDB - A Micro Graph Database for Python Applications.",
+        "name": "CogDB",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.tugraph.org/",
+        "description": "TuGraph - Graph database behinde Alipay. It has achieved the top-ranking performance in LDBC-SNB, a globally recognised benchmark test, surpassing competing solutions.",
+        "name": "TuGraph",
+        "headers": [
+          "Graph Databases",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://franz.com/agraph/allegrograph/",
+        "description": "AllegroGraph - high-performance, persistent graph database that scales to billions of quads",
+        "name": "AllegroGraph",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://jena.apache.org/",
+        "description": "Apache Jena - open source Java framework for building Semantic Web and Linked Data applications",
+        "name": "Apache Jena",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://git.sr.ht/~amirouche/copernic",
+        "description": "Copernic - Data, and its history, via change requests at scale",
+        "name": "Copernic",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://rdf4j.org/",
+        "description": "Eclipse RDF4J - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.",
+        "name": "Eclipse RDF4J",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://graphdb.ontotext.com/graphdb/",
+        "description": "GraphDB - enterprise ready Semantic Graph Database, compliant with W3C Standards",
+        "name": "GraphDB",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://virtuoso.openlinksw.com/",
+        "description": "Virtuoso - a \u0022Data Junction Box\u0022 that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos",
+        "name": "Virtuoso",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://marmotta.apache.org/",
+        "description": "Apache Marmotta - (retired Apache project) an open platform for linked data.",
+        "name": "Apache Marmotta",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/oxigraph/oxigraph",
+        "description": "Oxigraph - a light wight triple store written in Rust.",
+        "name": "Oxigraph",
+        "headers": [
+          "Triple Stores",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://giraph.apache.org/",
+        "description": "Apache Giraph - an iterative graph processing system built for high scalability",
+        "name": "Apache Giraph",
+        "headers": [
+          "Graph Computing Frameworks",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://tinkerpop.apache.org/",
+        "description": "Apache TinkerPop - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)",
+        "name": "Apache TinkerPop",
+        "headers": [
+          "Graph Computing Frameworks",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://spark.apache.org/graphx/",
+        "description": "Apache Spark - GraphX - Apache Spark\u0027s API for graphs and graph-parallel computation",
+        "name": "Apache Spark - GraphX",
+        "headers": [
+          "Graph Computing Frameworks",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/tencent/plato",
+        "description": "Tencent Plato - a fast distributed graph computation and machine learning framework used by WeChat. ",
+        "name": "Tencent Plato",
+        "headers": [
+          "Graph Computing Frameworks",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/dbs-leipzig/gradoop",
+        "description": "Gradoop - a distributed graph analytics framework based on Apache Flink",
+        "name": "Gradoop",
+        "headers": [
+          "Graph Computing Frameworks",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/antvis/g6",
+        "description": "AntV G6 - Simple, easy and complete high performance graph visualization engine written in JavaScript, from Ant Financial",
+        "name": "AntV G6",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/graphistry/pygraphistry",
+        "description": "Graphistry - An end-to-end GPU visual graph analytics engine (Nvidia RAPIDS.ai / Apache Arrow) with interfaces including JS/React, Python (Jupyter/StreamLit), REST, rich no-code/low-code UIs for various databases, and self \u002B cloud hosting, from Graphistry.",
+        "name": "Graphistry",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://gephi.org/",
+        "description": "Gephi - Graph visualization platform software runs on Windows, Mac and Linux.",
+        "name": "Gephi",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://cambridge-intelligence.com/",
+        "description": "KeyLines \u0026 ReGraph - Graph visualization tookits for JavaScript and React developer from Cambridge Intelligence.",
+        "name": "KeyLines \u0026 ReGraph",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://linkurio.us",
+        "description": "Linkurious - Linkurious is an enterprise ready on-premises graph visualization and analysis platform.",
+        "name": "Linkurious",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://cytoscape.org/",
+        "description": "Cytoscape - Open source graph visualization platform software runs on Windows, Mac and Linux.",
+        "name": "Cytoscape",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://js.cytoscape.org/",
+        "description": "Cytoscape.js - Graph visualization tookit for JavaScript.",
+        "name": "Cytoscape.js",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.sigmajs.org/",
+        "description": "Sigma.js - JavaScript library aimed at visualizing larger graphs.",
+        "name": "Sigma.js",
+        "headers": [
+          "Graph Visualization",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/morph-kgc/morph-kgc/",
+        "description": "Morph-KGC - Knowledge graph generation system with RML mappings.",
+        "name": "Morph-KGC",
+        "headers": [
+          "Graph Construction",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://termboard.com/",
+        "description": "Termboard - A very simple graphical editor to create Terms and Relations. It can use ChatGPT, Google Bard or any other chatbot. Ideal for beginners wanting to make and share quick sketches.",
+        "name": "Termboard",
+        "headers": [
+          "Graph Construction",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "http://www.opencypher.org/",
+        "description": "Cypher",
+        "name": "Cypher",
+        "headers": [
+          "Languages",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://tinkerpop.apache.org/gremlin.html",
+        "description": "Gremlin",
+        "name": "Gremlin",
+        "headers": [
+          "Languages",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://en.wikipedia.org/wiki/SPARQL",
+        "description": "SPARQL",
+        "name": "SPARQL",
+        "headers": [
+          "Languages",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://docs.dgraph.io/query-language/",
+        "description": "GraphQL\u002B- - The query language of Dgraph, which is based on Facebook\u0027s GraphQL",
+        "name": "GraphQL\u002B-",
+        "headers": [
+          "Languages",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://gql.today/",
+        "description": "GQL - An initiative to create a standard query language for property graph database, just like SQL for relational database.",
+        "name": "GQL",
+        "headers": [
+          "Languages",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction",
+        "description": "CosmosDB @ Microsoft - Azure Cosmos DB is Microsoft\u0027s globally distributed, multi-model (Key-value, Document, Column, Graph) database service.  ",
+        "name": "CosmosDB @ Microsoft",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.compose.com/databases/janusgraph",
+        "description": "JanusGraph @ IBM Compose",
+        "name": "JanusGraph @ IBM Compose",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://cloud.google.com/solutions/running-janusgraph-with-bigtable",
+        "description": "JanusGraph @ Google Cloud Platform - JanusGraph on Google Kubernetes Engine backed by Google Cloud Bigtable",
+        "name": "JanusGraph @ Google Cloud Platform",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/awslabs/dynamodb-janusgraph-storage-backend",
+        "description": "JanusGraph @ Amazon Web Services Labs - The Amazon DynamoDB Storage Backend for JanusGraph",
+        "name": "JanusGraph @ Amazon Web Services Labs",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.graphenedb.com/",
+        "description": "Neo4j @ Graphene",
+        "name": "Neo4j @ Graphene",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.graphstory.com/",
+        "description": "Neo4j @ Graph Story - End-to-end Graph Database hosting for Community and Enterprise Neo4j with expert help for development",
+        "name": "Neo4j @ Graph Story",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://aws.amazon.com/neptune/",
+        "description": "Neptune @ Amazon Web Services - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets",
+        "name": "Neptune @ Amazon Web Services",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.huaweicloud.com/en-us/product/ges.html",
+        "description": "Graph Engine Service @ Huawei Cloud - Fully-managed, distributed, at-scale graph query and analysis service that provides a visualized interactive analytics platform.",
+        "name": "Graph Engine Service @ Huawei Cloud",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.aliyun.com/product/gdb",
+        "description": "Graph Database (beta) @ Aliyun (Alibaba Cloud) - highly reliable and available property graph database that supports ACID and TinkerPop Gremlin query language. ",
+        "name": "Graph Database (beta) @ Aliyun (Alibaba Cloud)",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://cloud.tencent.com/product/tkg",
+        "description": "Tencent Knowledge Graph @ Tencent Cloud - One stop platform for Graph database, computing and visualization. Currently available in beta test and only in Chinese. ",
+        "name": "Tencent Knowledge Graph @ Tencent Cloud",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://wordlift.io/",
+        "description": "WoordLift - Easy-to-use SEO-focused Graph Database hosting for web and e-commerce websites running on Apache Marmotta. ",
+        "name": "WoordLift",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://ai.baidu.com/solution/kgaas",
+        "description": "Baidu Knowledge Graph @ Baidu AI Platform - One-stop AI platform to build knowledge graph and its applications. ",
+        "name": "Baidu Knowledge Graph @ Baidu AI Platform",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://github.com/graphistry/pygraphistry",
+        "description": "Graphistry - Cloud accounts for Graphistry end-to-end GPU-accelerated visual graph analytics projects",
+        "name": "Graphistry",
+        "headers": [
+          "Managed Hosting Services",
+          "Infrastructure"
+        ]
+      },
+      {
+        "link": "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/",
+        "description": "YAGA-NAGA - Harvesting, Searching, and Ranking Knowledge from the Web",
+        "name": "YAGA-NAGA",
+        "headers": [
+          "Managed Hosting Services",
+          "Knowledge Engineering"
+        ]
+      },
+      {
+        "link": "https://github.com/dedupeio/dedupe",
+        "description": "Dedupe - dedupe is a python library that uses machine learning to perform fuzzy matching, deduplication and entity resolution quickly on structured data.",
+        "name": "Dedupe",
+        "headers": [
+          "Knowledge Fusion",
+          "Knowledge Engineering"
+        ]
+      },
+      {
+        "link": "https://github.com/dice-group/LIMES",
+        "description": "LIMES - Link Discovery Framework for Metric Spaces.",
+        "name": "LIMES",
+        "headers": [
+          "Knowledge Fusion",
+          "Knowledge Engineering"
+        ]
+      },
+      {
+        "link": "https://babelnet.org/",
+        "description": "BabelNet - Both a multilingual encyclopedic dictionary, with lexicographic and encyclopedic coverage of terms, and a semantic network which connects concepts and named entities in a very large network of semantic relations, made up of about 16 million entries, called Babel synsets. Each Babel synset represents a given meaning and contains all the synonyms which express that meaning in a range of different languages.",
+        "name": "BabelNet",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.wikidata.org/wiki/Wikidata:Main_Page",
+        "description": "Wikidata - Wikidata is a free, collaborative, multilingual, secondary database, collecting structured data to provide support for Wikipedia, Wikimedia Commons, the other wikis of the Wikimedia movement, and to anyone in the world.",
+        "name": "Wikidata",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://developers.google.com/knowledge-graph/",
+        "description": "Google Knowledge Graph - Google\u2019s Knowledge Graph has millions of entries that describe real-world entities like people, places, and things.",
+        "name": "Google Knowledge Graph",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://developers.google.com/freebase/",
+        "description": "Freebase - Large scale knowledge base originally stated by Metaweb. Later aquired by Google and used in Google Knowledge Graph.",
+        "name": "FreebaseGoogle Knowledge Graph",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://wiki.dbpedia.org/",
+        "description": "DBpedia - DBpedia is a crowd-sourced community effort to extract structured content from the information created in various Wikimedia projects.",
+        "name": "DBpedia",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://xlore.org/",
+        "description": "XLore - A large-scale English-Chinese bilingual knowledge graph by structuring and integrating Chinese Wikipedia, English Wikipedia, French Wikipedia, and Baidu Baike. ",
+        "name": "XLore",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.gdeltproject.org/",
+        "description": "The GDELT Project - The GDELT Project monitors the world\u0027s broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society  every second of every day, creating a free open platform for computing on the entire world.",
+        "name": "The GDELT Project",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "http://yago-knowledge.org/",
+        "description": "YAGO - A huge semantic knowledge base, derived from Wikipedia,  WordNet and GeoNames. Currently, YAGO has knowledge of more than 10 million entities (like persons, organizations, cities, etc.) and contains more than 120 million facts about these entities. The source code of YAGO is in this Github repo. ",
+        "name": "YAGOWikipediaWordNetGeoNamesrepo",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "http://zhishi.me/",
+        "description": "Zhishi.me - Knowledge Graph data extracted from the largest Chinese encyclopedias,  Baidu Baike, Hudong Baike and Chinese Wikipedia.",
+        "name": "Zhishi.meBaidu BaikeHudong BaikeChinese Wikipedia",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "http://rtw.ml.cmu.edu/rtw/",
+        "description": "NELL - Never-Ending Language Learner, read the web and extract facts from text found in web pages continuously and improve itself.",
+        "name": "NELL",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://golden.xyz/",
+        "description": "Golden Protocol - A decentralized canonical knowledge graph. It is open, transparent, consensus, bounty enabled and built in the age of Web 3.",
+        "name": "Golden Protocol",
+        "headers": [
+          "General",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "http://conceptnet.io/",
+        "description": "ConceptNet - ConceptNet is a freely-available semantic network, designed to help computers understand the meanings of words that people use.",
+        "name": "ConceptNet",
+        "headers": [
+          "Semantic Network",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://concept.research.microsoft.com/",
+        "description": "Microsoft Concept Graph - For Short Text Understanding",
+        "name": "Microsoft Concept Graph",
+        "headers": [
+          "Semantic Network",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://openhownet.thunlp.org",
+        "description": "OpenHowNet - An Open Sememe-based Lexical Knowledge Base in Chinese.",
+        "name": "OpenHowNet",
+        "headers": [
+          "Semantic Network",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "http://wordnet.princeton.edu/",
+        "description": "WordNet - A free large lexical database of English from Princeton University.",
+        "name": "WordNet",
+        "headers": [
+          "Semantic Network",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.aminer.cn/",
+        "description": "AMiner - Aminer aims to provide comprehensive search and mining services for researcher social networks.",
+        "name": "AMiner",
+        "headers": [
+          "Academic \u0026 Research",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://academic.microsoft.com/",
+        "description": "Microsoft Academic - Microsoft Academic (MA) employs advances in machine learning, semantic inference and knowledge discovery to help you explore scholarly information in more powerful ways than ever before.",
+        "name": "Microsoft Academic",
+        "headers": [
+          "Academic \u0026 Research",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.acemap.info/",
+        "description": "AceMap - Academic search engine based on knowledge graph which includes entities like paper, author, institution and etc. ",
+        "name": "AceMap",
+        "headers": [
+          "Academic \u0026 Research",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.semanticscholar.org/",
+        "description": "Semantic Scholar - A free, AI-powered research tool for scientific literature. Collaborating with academic publishers to build a trustworthy and authoritative scientific knowledge graph.",
+        "name": "Semantic Scholar",
+        "headers": [
+          "Academic \u0026 Research",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://lynx-project.eu/",
+        "description": "Lynx - an ecosystem of smart cloud services to better manage compliance, based on a Legal Knowledge Graph (LKG) which integrates and links heterogeneous compliance data sources including legislation, case law, standards and other private contracts.",
+        "name": "Lynx",
+        "headers": [
+          "Other Domain",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://researchspace.org/",
+        "description": "ResearchSpace - A culture heritage knowledge graph from the British Museum. ",
+        "name": "ResearchSpace",
+        "headers": [
+          "Other Domain",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://www.nlm.nih.gov/research/umls/index.html",
+        "description": "Unified Medical Language System (UMLS) - The UMLS integrates and distributes key terminology, classification and coding standards, and associated resources to promote creation of more effective and interoperable biomedical information systems and services, including electronic health records.",
+        "name": "Unified Medical Language System (UMLS)",
+        "headers": [
+          "Other Domain",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://go.drugbank.com/",
+        "description": "DrugBank - Knowledge base for drug interactions, pharmacology, chemical structures, targets, metabolism, and more. ",
+        "name": "DrugBank",
+        "headers": [
+          "Other Domain",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://string-db.org/",
+        "description": "STRING - A database of known and predicted protein-protein interactions.",
+        "name": "STRING",
+        "headers": [
+          "Other Domain",
+          "Knowledge Graph Dataset"
+        ]
+      },
+      {
+        "link": "https://neo4j.com/developer/cypher-query-language/",
+        "description": "Cypher - reference documentation",
+        "name": "Cypher",
+        "headers": [
+          "Official Documentations",
+          "Learning Materials"
+        ]
+      },
+      {
+        "link": "http://tinkerpop.apache.org/docs/current/reference/#traversal",
+        "description": "Gremlin - reference documentation",
+        "name": "Gremlin",
+        "headers": [
+          "Official Documentations",
+          "Learning Materials"
+        ]
+      },
+      {
+        "link": "https://github.com/krlawrence/graph",
+        "description": "Graph Book - TinkerPop3 centric book written by Kelvin R. Lawrence",
+        "name": "Graph BookKelvin R. Lawrence",
+        "headers": [
+          "Community Effort",
+          "Learning Materials"
+        ]
+      },
+      {
+        "link": "http://sql2gremlin.com/",
+        "description": "SQL2Gremlin - transition from SQL to Gremlin by Daniel Kuppitz",
+        "name": "SQL2GremlinDaniel Kuppitz",
+        "headers": [
+          "Community Effort",
+          "Learning Materials"
+        ]
+      },
+      {
+        "link": "http://www.doanduyhai.com/blog/?p=13460",
+        "description": "The Gremlin Compendium - minimum survival kit for any Gremlin user, 10 blog post series by Doan DuyHai",
+        "name": "The Gremlin CompendiumDoan DuyHai",
+        "headers": [
+          "Community Effort",
+          "Learning Materials"
+        ]
+      },
+      {
+        "link": "http://graphconnect.com/",
+        "description": "Graph Connect - powered by Neo4j",
+        "name": "Graph Connect",
+        "headers": [
+          "Community Effort",
+          "Conferences"
+        ]
+      },
+      {
+        "link": "http://graphday.com/",
+        "description": "Graph Day - an Independent Graph Conference from the Data Day folks",
+        "name": "Graph Day",
+        "headers": [
+          "Community Effort",
+          "Conferences"
+        ]
+      },
+      {
+        "link": "https://connected-data.london/",
+        "description": "Connected Data London - Connected Data London brings together 160\u002B Artificial Intelligence, Semantic Technology, Linked Data and Graph Database innovators, thought leaders and practitioners annually in one great conference. The conference has expanded its themes and tracks, from its roots as the primary conference for Knowledge Graphs, Linked Data and Semantics to include related Graph Database and AI / Machine Learning technologies and practical use cases.",
+        "name": "Connected Data London",
+        "headers": [
+          "Community Effort",
+          "Conferences"
+        ]
+      },
+      {
+        "link": "https://github.com/jbmusso/awesome-graph",
+        "description": "awesome-graph - Graph, the infrastructure for Knowledge Graph",
+        "name": "awesome-graph",
+        "headers": [
+          "Community Effort",
+          "Contribute"
+        ]
+      },
+      {
+        "link": "https://github.com/husthuke/awesome-knowledge-graph",
+        "description": "awesome-knowledge-graph - Knowledge graph related materials but all in Chinese",
+        "name": "awesome-knowledge-graph",
+        "headers": [
+          "Community Effort",
+          "Contribute"
+        ]
+      }
+    ]
+  }
+]
