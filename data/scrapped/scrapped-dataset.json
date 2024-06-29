@@ -728,7 +728,8 @@
         "name": "F# Playground",
         "headers": [
           "IDE",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -737,7 +738,8 @@
         "name": "Jetbrains Rider",
         "headers": [
           "IDE",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -746,7 +748,8 @@
         "name": "MonoDevelop",
         "headers": [
           "IDE",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -755,7 +758,8 @@
         "name": "Visual Studio",
         "headers": [
           "IDE",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -764,7 +768,8 @@
         "name": "Emacs F# mode \u2605 80 \u29D7 27",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -773,7 +778,8 @@
         "name": "F# Bindings \u2605 321 \u29D7 261",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -782,7 +788,8 @@
         "name": "Fantomas \u2605 472 \u29D7 115",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -791,7 +798,8 @@
         "name": "FSharpLint \u2605 223 \u29D7 55",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -800,7 +808,8 @@
         "name": "FSharpFar \u2605 33 \u29D7 54",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -809,7 +818,8 @@
         "name": "Ionide",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -818,7 +828,8 @@
         "name": "Vim F# \u2605 66 \u29D7 3",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -827,7 +838,8 @@
         "name": "neofsharp.vim",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -836,7 +848,8 @@
         "name": "VimSpeak \u2605 305 \u29D7 910",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -845,7 +858,8 @@
         "name": "Visual F# Power Tools \u2605 310 \u29D7 53",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -854,7 +868,8 @@
         "name": "fsharp-notebook",
         "headers": [
           "Editor plugins",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -863,7 +878,8 @@
         "name": "fasm",
         "headers": [
           "Performance analysis",
-          "Development Tools"
+          "Development Tools",
+          " Awesome F#"
         ]
       },
       {
@@ -872,7 +888,8 @@
         "name": "Aether \u2605 71 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -881,7 +898,8 @@
         "name": "Chessie \u2605 96 \u29D7 272",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -890,7 +908,8 @@
         "name": "Donald",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -899,7 +918,8 @@
         "name": "DustyTables \u2605 39 \u29D7 6",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -908,7 +928,8 @@
         "name": "ExtCore \u2605 96 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -917,7 +938,8 @@
         "name": "Fling",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -926,7 +948,8 @@
         "name": "FSharp.CosmosDb",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -935,7 +958,8 @@
         "name": "FSharp.HashCollections \u2605 4 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -944,7 +968,8 @@
         "name": "FSharpLu \u2605 133 \u29D7 20",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -953,7 +978,8 @@
         "name": "FsToolkit.ErrorHandling",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -962,7 +988,8 @@
         "name": "Fumble \u2605 30 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -971,7 +998,8 @@
         "name": "FSharpPlus \u2605 142 \u29D7 34",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -980,7 +1008,8 @@
         "name": "FSharpx.Extras \u2605 589 \u29D7 28",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -989,7 +1018,8 @@
         "name": "LiteDB.FSharpLiteDB",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -998,7 +1028,8 @@
         "name": "Npgsql.FSharpNpgsql",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -1007,7 +1038,8 @@
         "name": "TypeShape \u2605 64 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -1016,7 +1048,8 @@
         "name": "Validus",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -1025,7 +1058,8 @@
         "name": "Vp.FSharp.Sql",
         "headers": [
           "Performance analysis",
-          "General purpose libraries"
+          "General purpose libraries",
+          " Awesome F#"
         ]
       },
       {
@@ -1034,7 +1068,8 @@
         "name": "FsUnity",
         "headers": [
           "Performance analysis",
-          "Game development"
+          "Game development",
+          " Awesome F#"
         ]
       },
       {
@@ -1043,7 +1078,8 @@
         "name": "Garnet \u2605 15 \u29D7 6",
         "headers": [
           "Performance analysis",
-          "Game development"
+          "Game development",
+          " Awesome F#"
         ]
       },
       {
@@ -1052,7 +1088,8 @@
         "name": "Godot",
         "headers": [
           "Performance analysis",
-          "Game development"
+          "Game development",
+          " Awesome F#"
         ]
       },
       {
@@ -1061,7 +1098,8 @@
         "name": "Nu Game Engine \u2605 502 \u29D7 9",
         "headers": [
           "Performance analysis",
-          "Game development"
+          "Game development",
+          " Awesome F#"
         ]
       },
       {
@@ -1070,7 +1108,8 @@
         "name": "Avalonia.FuncUI",
         "headers": [
           "Performance analysis",
-          "GUI"
+          "GUI",
+          " Awesome F#"
         ]
       },
       {
@@ -1079,7 +1118,8 @@
         "name": "Epoxy",
         "headers": [
           "Performance analysis",
-          "GUI"
+          "GUI",
+          " Awesome F#"
         ]
       },
       {
@@ -1088,7 +1128,8 @@
         "name": "Fabulous",
         "headers": [
           "Performance analysis",
-          "GUI"
+          "GUI",
+          " Awesome F#"
         ]
       },
       {
@@ -1097,7 +1138,8 @@
         "name": "Http.fs",
         "headers": [
           "Performance analysis",
-          "HTTP Clients"
+          "HTTP Clients",
+          " Awesome F#"
         ]
       },
       {
@@ -1106,7 +1148,8 @@
         "name": "FsHttp",
         "headers": [
           "Performance analysis",
-          "HTTP Clients"
+          "HTTP Clients",
+          " Awesome F#"
         ]
       },
       {
@@ -1115,7 +1158,8 @@
         "name": "Oryx",
         "headers": [
           "Performance analysis",
-          "HTTP Clients"
+          "HTTP Clients",
+          " Awesome F#"
         ]
       },
       {
@@ -1124,7 +1168,8 @@
         "name": "FsLibLog \u2605 26 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Logging"
+          "Logging",
+          " Awesome F#"
         ]
       },
       {
@@ -1133,7 +1178,8 @@
         "name": "Logary \u2605 259 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Logging"
+          "Logging",
+          " Awesome F#"
         ]
       },
       {
@@ -1142,7 +1188,8 @@
         "name": "NuGet",
         "headers": [
           "Performance analysis",
-          "Package Management"
+          "Package Management",
+          " Awesome F#"
         ]
       },
       {
@@ -1151,7 +1198,8 @@
         "name": "Paket \u2605 903 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Package Management"
+          "Package Management",
+          " Awesome F#"
         ]
       },
       {
@@ -1160,7 +1208,8 @@
         "name": "FParsec \u2605 50 \u29D7 0BSD-2-Clause",
         "headers": [
           "Performance analysis",
-          "Parsing"
+          "Parsing",
+          " Awesome F#"
         ]
       },
       {
@@ -1169,7 +1218,8 @@
         "name": "FsAttoparsec \u2605 1 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Parsing"
+          "Parsing",
+          " Awesome F#"
         ]
       },
       {
@@ -1178,7 +1228,8 @@
         "name": "XParsec \u2605 29 \u29D7 2",
         "headers": [
           "Performance analysis",
-          "Parsing"
+          "Parsing",
+          " Awesome F#"
         ]
       },
       {
@@ -1187,7 +1238,8 @@
         "name": "Myriad \u2605 38 \u29D7 4",
         "headers": [
           "Performance analysis",
-          "PreCompilation"
+          "PreCompilation",
+          " Awesome F#"
         ]
       },
       {
@@ -1196,7 +1248,8 @@
         "name": "FsCodec \u2605 21 \u29D7 7",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1205,7 +1258,8 @@
         "name": "FSharp.Json \u2605 72 \u29D7 15",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1214,7 +1268,8 @@
         "name": "FSharp.SystemTextJson \u2605 36 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1223,7 +1278,8 @@
         "name": "Fleece \u2605 94 \u29D7 76",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1232,7 +1288,8 @@
         "name": "FsPickler \u2605 195 \u29D7 13",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1241,7 +1298,8 @@
         "name": "Legivel \u2605 19 \u29D7 4",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1250,7 +1308,8 @@
         "name": "Thoth.Json \u2605 40 \u29D7 11",
         "headers": [
           "Performance analysis",
-          "Serialization"
+          "Serialization",
+          " Awesome F#"
         ]
       },
       {
@@ -1259,7 +1318,8 @@
         "name": "FlexSearch \u2605 133 \u29D7 14",
         "headers": [
           "Performance analysis",
-          "Search"
+          "Search",
+          " Awesome F#"
         ]
       },
       {
@@ -1268,7 +1328,8 @@
         "name": "F# RISC-V Instruction Set formal specification",
         "headers": [
           "Performance analysis",
-          "Simulation"
+          "Simulation",
+          " Awesome F#"
         ]
       },
       {
@@ -1277,7 +1338,8 @@
         "name": "altcover \u2605 139 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1286,7 +1348,8 @@
         "name": "canopy \u2605 304 \u29D7 2",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1295,7 +1358,8 @@
         "name": "Expecto \u2605 124 \u29D7 2",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1304,7 +1368,8 @@
         "name": "FsCheck \u2605 415 \u29D7 34",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1313,7 +1378,8 @@
         "name": "fsharp-hedgehog \u2605 42 \u29D7 4",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1322,7 +1388,8 @@
         "name": "FsUnit \u2605 340 \u29D7 86",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1331,7 +1398,8 @@
         "name": "NBomber \u2605 14 \u29D7 23",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1340,7 +1408,8 @@
         "name": "Persimmon \u2605 29 \u29D7 9",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1349,7 +1418,8 @@
         "name": "unquote \u2605 88 \u29D7 17",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1358,7 +1428,8 @@
         "name": "xUnit.net",
         "headers": [
           "Performance analysis",
-          "Testing"
+          "Testing",
+          " Awesome F#"
         ]
       },
       {
@@ -1367,7 +1438,8 @@
         "name": "ApiaryProvider \u2605 9 \u29D7 380",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1376,7 +1448,8 @@
         "name": "AzureStorageTypeProvider \u2605 45 \u29D7 20",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1385,7 +1458,8 @@
         "name": "COM Type Provider \u2605 36 \u29D7 330",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1394,7 +1468,8 @@
         "name": "DynamicsCRMProvider \u2605 8 \u29D7 380",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1403,7 +1478,8 @@
         "name": "ExcelProvider \u2605 45 \u29D7 75",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1412,7 +1488,8 @@
         "name": "Facil",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1421,7 +1498,8 @@
         "name": "FSharp.Configuration \u2605 60 \u29D7 6",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1430,7 +1508,8 @@
         "name": "FSharp.Data \u2605 375 \u29D7 8",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1439,7 +1518,8 @@
         "name": "FSharp.Data.DbPedia \u2605 9 \u29D7 379",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1448,7 +1528,8 @@
         "name": "FSharp.Data.HiveProvider \u2605 8 \u29D7 379",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1457,7 +1538,8 @@
         "name": "FSharp.Data.Npgsql \u2605 6 \u29D7 1",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1466,7 +1548,8 @@
         "name": "FSharp.Data.SqlClient \u2605 121 \u29D7 16",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1475,7 +1558,8 @@
         "name": "FSharp.Data.Tdms \u2605 0 \u29D7 1",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1484,7 +1568,8 @@
         "name": "FSharp.Data.Toolbox \u2605 38 \u29D7 7",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1493,7 +1578,8 @@
         "name": "FSharp.Data.TypeProviders \u2605 9 \u29D7 379",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1502,7 +1588,8 @@
         "name": "FSharp.Management \u2605 59 \u29D7 1",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1511,7 +1598,8 @@
         "name": "FSharp.Text.RegexProvider \u2605 29 \u29D7 285",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1520,7 +1608,8 @@
         "name": "FsXaml \u2605 158 \u29D7 453",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1529,7 +1618,8 @@
         "name": "FsYaml \u2605 33 \u29D7 41",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1538,7 +1628,8 @@
         "name": "GraphProvider \u2605 21 \u29D7 379",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1547,7 +1638,8 @@
         "name": "MatDataProvider \u2605 6 \u29D7 378",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1556,7 +1648,8 @@
         "name": "R Type Provider \u2605 159 \u29D7 365",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1565,7 +1658,8 @@
         "name": "Rezoom.SQL \u2605 7 \u29D7 0",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1574,7 +1668,8 @@
         "name": "S3Provider \u2605 16 \u29D7 379",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1583,7 +1678,8 @@
         "name": "SQLProvider \u2605 192 \u29D7 7",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1592,7 +1688,8 @@
         "name": "SwaggerProvider \u2605 81 \u29D7 3",
         "headers": [
           "Performance analysis",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1601,7 +1698,8 @@
         "name": "FSharp.TypeProviders.StarterPack \u2605 104 \u29D7 42",
         "headers": [
           "Creating type providers",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1610,7 +1708,8 @@
         "name": "RestProvider \u2605 14 \u29D7 258",
         "headers": [
           "Creating type providers",
-          "Type providers"
+          "Type providers",
+          " Awesome F#"
         ]
       },
       {
@@ -1619,7 +1718,8 @@
         "name": "FSharp.Charting \u2605 186 \u29D7 0",
         "headers": [
           "Creating type providers",
-          "Visualization"
+          "Visualization",
+          " Awesome F#"
         ]
       },
       {
@@ -1628,7 +1728,8 @@
         "name": "SharpVG \u2605 32 \u29D7 0",
         "headers": [
           "Creating type providers",
-          "Visualization"
+          "Visualization",
+          " Awesome F#"
         ]
       },
       {
@@ -1637,7 +1738,8 @@
         "name": "XPlot \u2605 173 \u29D7 0",
         "headers": [
           "Creating type providers",
-          "Visualization"
+          "Visualization",
+          " Awesome F#"
         ]
       },
       {
@@ -1646,7 +1748,8 @@
         "name": "GG.Net",
         "headers": [
           "Creating type providers",
-          "Visualization"
+          "Visualization",
+          " Awesome F#"
         ]
       },
       {
@@ -1655,7 +1758,8 @@
         "name": "Plotly.NET",
         "headers": [
           "Creating type providers",
-          "Visualization"
+          "Visualization",
+          " Awesome F#"
         ]
       },
       {
@@ -1664,7 +1768,8 @@
         "name": "Bolero \u2605 629",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1673,7 +1778,8 @@
         "name": "Falco",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1682,7 +1788,8 @@
         "name": "Felicity",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1691,7 +1798,8 @@
         "name": "Freya \u2605 241 \u29D7 7",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1700,7 +1808,8 @@
         "name": "Genit \u2605 62 \u29D7 1",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1709,7 +1818,8 @@
         "name": "Giraffe \u2605 526 \u29D7 49",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1718,7 +1828,8 @@
         "name": "Saturn \u2605 62 \u29D7 2",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1727,7 +1838,8 @@
         "name": "Suave \u2605 756 \u29D7 2",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1736,7 +1848,8 @@
         "name": "WebSharper \u2605 270 \u29D7 7",
         "headers": [
           "Creating type providers",
-          "Web frameworks"
+          "Web frameworks",
+          " Awesome F#"
         ]
       },
       {
@@ -1745,7 +1858,8 @@
         "name": "ASP.NET Core WebAPI F# Template",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1754,7 +1868,8 @@
         "name": "Expecto Template",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1763,7 +1878,8 @@
         "name": "Fable, F# |\u003E Babel",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1772,7 +1888,8 @@
         "name": "Fable-elmish",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1781,7 +1898,8 @@
         "name": "Freya",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1790,7 +1908,8 @@
         "name": "Giraffe Template",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1799,7 +1918,8 @@
         "name": "MiniScaffold",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1807,7 +1927,8 @@
         "name": "",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1815,7 +1936,8 @@
         "name": "",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1824,7 +1946,8 @@
         "name": "NancyFx Template",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1833,7 +1956,8 @@
         "name": "SAFE Stack Template",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1842,7 +1966,8 @@
         "name": "vbfox\u0027s F# Templates",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1850,7 +1975,8 @@
         "name": "",
         "headers": [
           "Creating type providers",
-          ".Net Core Templates"
+          ".Net Core Templates",
+          " Awesome F#"
         ]
       },
       {
@@ -1859,7 +1985,8 @@
         "name": ".NET Blog (F# tag)",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1868,7 +1995,8 @@
         "name": "Codesuji",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1877,7 +2005,8 @@
         "name": "Krzysztof Cieslak",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1886,7 +2015,8 @@
         "name": "Mark Seemann",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1895,7 +2025,8 @@
         "name": "Sergey Tihon (F# Weekly)",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1904,7 +2035,8 @@
         "name": "Tomas Petricek",
         "headers": [
           "Blogs",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1913,7 +2045,8 @@
         "name": "F# in Action",
         "headers": [
           "Books",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1922,7 +2055,8 @@
         "name": "F# cheatsheet",
         "headers": [
           "Cheatsheets",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1931,7 +2065,8 @@
         "name": "F# Snips",
         "headers": [
           "Cheatsheets",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1940,7 +2075,8 @@
         "name": "F# tour",
         "headers": [
           "Cheatsheets",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1949,7 +2085,8 @@
         "name": "Learn F# in Y minutes",
         "headers": [
           "Cheatsheets",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1958,7 +2095,8 @@
         "name": "F# on Discourse",
         "headers": [
           "Community",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1967,7 +2105,8 @@
         "name": "F# on Github",
         "headers": [
           "Community",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1976,7 +2115,8 @@
         "name": "F# on IRC",
         "headers": [
           "Community",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1985,7 +2125,8 @@
         "name": "F# on Slack",
         "headers": [
           "Community",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -1994,7 +2135,8 @@
         "name": "F# news on Telegram",
         "headers": [
           "Community",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2003,7 +2145,8 @@
         "name": "Awesome .NET! \u2605 4458 \u29D7 2",
         "headers": [
           "Other Lists",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2012,7 +2155,8 @@
         "name": "Awesome Fable",
         "headers": [
           "Other Lists",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2021,7 +2165,8 @@
         "name": "F# Community Projects",
         "headers": [
           "Other Lists",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2030,7 +2175,8 @@
         "name": "F# for fun and profit",
         "headers": [
           "Other Lists",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2039,7 +2185,8 @@
         "name": "WTF#",
         "headers": [
           "Other Lists",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2048,7 +2195,8 @@
         "name": "Community for F#",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2057,7 +2205,8 @@
         "name": "cs2fs",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2066,7 +2215,8 @@
         "name": "Decompiler.com",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2075,7 +2225,8 @@
         "name": "DotNetFiddle",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2084,7 +2235,8 @@
         "name": "F# Core Engineering",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2093,7 +2245,8 @@
         "name": "F# for Fun and Profit",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2102,7 +2255,8 @@
         "name": "F# Software Foundation",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2111,7 +2265,8 @@
         "name": "fantomas-tools",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2120,7 +2275,8 @@
         "name": "SharpLab",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2129,7 +2285,8 @@
         "name": "Try F#",
         "headers": [
           "Websites",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2138,7 +2295,8 @@
         "name": "Austin F# Meetup Group Recorded Presentations",
         "headers": [
           "Videos",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2147,7 +2305,8 @@
         "name": "Intro to F#",
         "headers": [
           "Videos",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2156,7 +2315,8 @@
         "name": "Fast Dictionary in F#",
         "headers": [
           "Videos",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2165,7 +2325,8 @@
         "name": "F# Chats on performance",
         "headers": [
           "Videos",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2174,7 +2335,8 @@
         "name": "Topological Sort",
         "headers": [
           "Videos",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2183,7 +2345,8 @@
         "name": "Data programming with F#",
         "headers": [
           "Courses",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2192,7 +2355,8 @@
         "name": "F# workshop",
         "headers": [
           "Courses",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2201,7 +2365,8 @@
         "name": "Introduction to F#",
         "headers": [
           "Courses",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       },
       {
@@ -2210,7 +2375,8 @@
         "name": "Write yourself a scheme in 48 hours using F#",
         "headers": [
           "Courses",
-          "Resources"
+          "Resources",
+          " Awesome F#"
         ]
       }
     ]
@@ -2377,7 +2543,8 @@
         "name": "AgensGraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2386,7 +2553,8 @@
         "name": "ArangoDB",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2395,7 +2563,8 @@
         "name": "Atomic-ServerAtomic Data",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2404,7 +2573,8 @@
         "name": "Blazegraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2413,7 +2583,8 @@
         "name": "Cayley",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2422,7 +2593,8 @@
         "name": "CosmosDB",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2431,7 +2603,8 @@
         "name": "Dgraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2440,7 +2613,8 @@
         "name": "DSE Graph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2449,7 +2623,8 @@
         "name": "TypeDB",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2458,7 +2633,8 @@
         "name": "Graphd",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2467,7 +2643,8 @@
         "name": "JanusGraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2476,7 +2653,8 @@
         "name": "Memgraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2485,7 +2663,8 @@
         "name": "Neo4j",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2494,7 +2673,8 @@
         "name": "Sparksee",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2503,7 +2683,8 @@
         "name": "Stardog",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2512,7 +2693,8 @@
         "name": "OrientDB",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2521,7 +2703,8 @@
         "name": "TigerGraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2530,7 +2713,8 @@
         "name": "Nebula Graph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2539,7 +2723,8 @@
         "name": "HugeGraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2548,7 +2733,8 @@
         "name": "Diffbot",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2557,7 +2743,8 @@
         "name": "Weaver",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2566,7 +2753,8 @@
         "name": "Kuzu",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2575,7 +2763,8 @@
         "name": "CogDB",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2584,7 +2773,8 @@
         "name": "TuGraph",
         "headers": [
           "Graph Databases",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2593,7 +2783,8 @@
         "name": "AllegroGraph",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2602,7 +2793,8 @@
         "name": "Apache Jena",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2611,7 +2803,8 @@
         "name": "Copernic",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2620,7 +2813,8 @@
         "name": "Eclipse RDF4J",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2629,7 +2823,8 @@
         "name": "GraphDB",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2638,7 +2833,8 @@
         "name": "Virtuoso",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2647,7 +2843,8 @@
         "name": "Apache Marmotta",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2656,7 +2853,8 @@
         "name": "Oxigraph",
         "headers": [
           "Triple Stores",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2665,7 +2863,8 @@
         "name": "Apache Giraph",
         "headers": [
           "Graph Computing Frameworks",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2674,7 +2873,8 @@
         "name": "Apache TinkerPop",
         "headers": [
           "Graph Computing Frameworks",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2683,7 +2883,8 @@
         "name": "Apache Spark - GraphX",
         "headers": [
           "Graph Computing Frameworks",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2692,7 +2893,8 @@
         "name": "Tencent Plato",
         "headers": [
           "Graph Computing Frameworks",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2701,7 +2903,8 @@
         "name": "Gradoop",
         "headers": [
           "Graph Computing Frameworks",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2710,7 +2913,8 @@
         "name": "AntV G6",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2719,7 +2923,8 @@
         "name": "Graphistry",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2728,7 +2933,8 @@
         "name": "Gephi",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2737,7 +2943,8 @@
         "name": "KeyLines \u0026 ReGraph",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2746,7 +2953,8 @@
         "name": "Linkurious",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2755,7 +2963,8 @@
         "name": "Cytoscape",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2764,7 +2973,8 @@
         "name": "Cytoscape.js",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2773,7 +2983,8 @@
         "name": "Sigma.js",
         "headers": [
           "Graph Visualization",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2782,7 +2993,8 @@
         "name": "Morph-KGC",
         "headers": [
           "Graph Construction",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2791,7 +3003,8 @@
         "name": "Termboard",
         "headers": [
           "Graph Construction",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2800,7 +3013,8 @@
         "name": "Cypher",
         "headers": [
           "Languages",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2809,7 +3023,8 @@
         "name": "Gremlin",
         "headers": [
           "Languages",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2818,7 +3033,8 @@
         "name": "SPARQL",
         "headers": [
           "Languages",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2827,7 +3043,8 @@
         "name": "GraphQL\u002B-",
         "headers": [
           "Languages",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2836,7 +3053,8 @@
         "name": "GQL",
         "headers": [
           "Languages",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2845,7 +3063,8 @@
         "name": "CosmosDB @ Microsoft",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2854,7 +3073,8 @@
         "name": "JanusGraph @ IBM Compose",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2863,7 +3083,8 @@
         "name": "JanusGraph @ Google Cloud Platform",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2872,7 +3093,8 @@
         "name": "JanusGraph @ Amazon Web Services Labs",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2881,7 +3103,8 @@
         "name": "Neo4j @ Graphene",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2890,7 +3113,8 @@
         "name": "Neo4j @ Graph Story",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2899,7 +3123,8 @@
         "name": "Neptune @ Amazon Web Services",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2908,7 +3133,8 @@
         "name": "Graph Engine Service @ Huawei Cloud",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2917,7 +3143,8 @@
         "name": "Graph Database (beta) @ Aliyun (Alibaba Cloud)",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2926,7 +3153,8 @@
         "name": "Tencent Knowledge Graph @ Tencent Cloud",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2935,7 +3163,8 @@
         "name": "WoordLift",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2944,7 +3173,8 @@
         "name": "Baidu Knowledge Graph @ Baidu AI Platform",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2953,7 +3183,8 @@
         "name": "Graphistry",
         "headers": [
           "Managed Hosting Services",
-          "Infrastructure"
+          "Infrastructure",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2962,7 +3193,8 @@
         "name": "YAGA-NAGA",
         "headers": [
           "Managed Hosting Services",
-          "Knowledge Engineering"
+          "Knowledge Engineering",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2971,7 +3203,8 @@
         "name": "Dedupe",
         "headers": [
           "Knowledge Fusion",
-          "Knowledge Engineering"
+          "Knowledge Engineering",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2980,7 +3213,8 @@
         "name": "LIMES",
         "headers": [
           "Knowledge Fusion",
-          "Knowledge Engineering"
+          "Knowledge Engineering",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2989,7 +3223,8 @@
         "name": "BabelNet",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -2998,7 +3233,8 @@
         "name": "Wikidata",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3007,7 +3243,8 @@
         "name": "Google Knowledge Graph",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3016,7 +3253,8 @@
         "name": "FreebaseGoogle Knowledge Graph",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3025,7 +3263,8 @@
         "name": "DBpedia",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3034,7 +3273,8 @@
         "name": "XLore",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3043,7 +3283,8 @@
         "name": "The GDELT Project",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3052,7 +3293,8 @@
         "name": "YAGOWikipediaWordNetGeoNamesrepo",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3061,7 +3303,8 @@
         "name": "Zhishi.meBaidu BaikeHudong BaikeChinese Wikipedia",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3070,7 +3313,8 @@
         "name": "NELL",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3079,7 +3323,8 @@
         "name": "Golden Protocol",
         "headers": [
           "General",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3088,7 +3333,8 @@
         "name": "ConceptNet",
         "headers": [
           "Semantic Network",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3097,7 +3343,8 @@
         "name": "Microsoft Concept Graph",
         "headers": [
           "Semantic Network",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3106,7 +3353,8 @@
         "name": "OpenHowNet",
         "headers": [
           "Semantic Network",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3115,7 +3363,8 @@
         "name": "WordNet",
         "headers": [
           "Semantic Network",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3124,7 +3373,8 @@
         "name": "AMiner",
         "headers": [
           "Academic \u0026 Research",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3133,7 +3383,8 @@
         "name": "Microsoft Academic",
         "headers": [
           "Academic \u0026 Research",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3142,7 +3393,8 @@
         "name": "AceMap",
         "headers": [
           "Academic \u0026 Research",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3151,7 +3403,8 @@
         "name": "Semantic Scholar",
         "headers": [
           "Academic \u0026 Research",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3160,7 +3413,8 @@
         "name": "Lynx",
         "headers": [
           "Other Domain",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3169,7 +3423,8 @@
         "name": "ResearchSpace",
         "headers": [
           "Other Domain",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3178,7 +3433,8 @@
         "name": "Unified Medical Language System (UMLS)",
         "headers": [
           "Other Domain",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3187,7 +3443,8 @@
         "name": "DrugBank",
         "headers": [
           "Other Domain",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3196,7 +3453,8 @@
         "name": "STRING",
         "headers": [
           "Other Domain",
-          "Knowledge Graph Dataset"
+          "Knowledge Graph Dataset",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3205,7 +3463,8 @@
         "name": "Cypher",
         "headers": [
           "Official Documentations",
-          "Learning Materials"
+          "Learning Materials",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3214,7 +3473,8 @@
         "name": "Gremlin",
         "headers": [
           "Official Documentations",
-          "Learning Materials"
+          "Learning Materials",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3223,7 +3483,8 @@
         "name": "Graph BookKelvin R. Lawrence",
         "headers": [
           "Community Effort",
-          "Learning Materials"
+          "Learning Materials",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3232,7 +3493,8 @@
         "name": "SQL2GremlinDaniel Kuppitz",
         "headers": [
           "Community Effort",
-          "Learning Materials"
+          "Learning Materials",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3241,7 +3503,8 @@
         "name": "The Gremlin CompendiumDoan DuyHai",
         "headers": [
           "Community Effort",
-          "Learning Materials"
+          "Learning Materials",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3250,7 +3513,8 @@
         "name": "Graph Connect",
         "headers": [
           "Community Effort",
-          "Conferences"
+          "Conferences",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3259,7 +3523,8 @@
         "name": "Graph Day",
         "headers": [
           "Community Effort",
-          "Conferences"
+          "Conferences",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3268,7 +3533,8 @@
         "name": "Connected Data London",
         "headers": [
           "Community Effort",
-          "Conferences"
+          "Conferences",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3277,7 +3543,8 @@
         "name": "awesome-graph",
         "headers": [
           "Community Effort",
-          "Contribute"
+          "Contribute",
+          "Awesome Knowledge Graph "
         ]
       },
       {
@@ -3286,7 +3553,8 @@
         "name": "awesome-knowledge-graph",
         "headers": [
           "Community Effort",
-          "Contribute"
+          "Contribute",
+          "Awesome Knowledge Graph "
         ]
       }
     ]
