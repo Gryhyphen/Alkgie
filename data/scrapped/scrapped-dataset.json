@@ -2382,6 +2382,528 @@
     ]
   },
   {
+    "filename": "awesome-graph.md",
+    "data": [
+      {
+        "link": "https://bitnine.net/agensgraph-2/",
+        "description": "AgensGraph - multi-model graph database with SQL and Cypher support",
+        "name": "AgensGraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.cambridgesemantics.com/anzograph/",
+        "description": "AnzoGraph - Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS\u002B, LPG) ",
+        "name": "AnzoGraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://crates.io/crates/atomic-server/",
+        "description": "Atomic-Server - open-source type-safe graph database server with GUI, written in rust. Supports Atomic Data, JSON \u0026 RDF.",
+        "name": "Atomic-ServerAtomic Data",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.arangodb.com/",
+        "description": "ArangoDB - highly available Multi-Model NoSQL database",
+        "name": "ArangoDB",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/blazegraph/database",
+        "description": "Blazegraph - GPU accelerated graph database",
+        "name": "Blazegraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/cayleygraph/cayley",
+        "description": "Cayley - open source database written in Go",
+        "name": "Cayley",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction",
+        "description": "CosmosDB - cloud-based multi-model database with support for TinkerPop3",
+        "name": "CosmosDB",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://dgraph.io",
+        "description": "Dgraph - Fast, Transactional, Distributed Graph Database (open source, written in Go)",
+        "name": "Dgraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.datastax.com/products/datastax-enterprise-graph",
+        "description": "DSE Graph - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)",
+        "name": "DSE Graph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/arturo-lang/grafito",
+        "description": "Grafito - Portable, Serverless \u0026 Lightweight SQLite-based Graph Database in Arturo",
+        "name": "Grafito",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://grakn.ai/",
+        "description": "Grakn.AI - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base",
+        "name": "Grakn.AI",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/google/graphd",
+        "description": "Graphd - the Metaweb/Freebase Graph Repository",
+        "name": "Graphd",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://janusgraph.org",
+        "description": "JanusGraph - an open-source, distributed graph database with pluggable storage and indexing backends",
+        "name": "JanusGraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://memgraph.com/",
+        "description": "Memgraph - High Performance, In-Memory, Transactional Graph Database",
+        "name": "Memgraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://tinkerpop.apache.org/docs/current/#neo4j-gremlin",
+        "description": "Neo4j - OLTP graph database",
+        "name": "Neo4j",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://nebula-graph.io/",
+        "description": "Nebula Graph - A distributed, fast open-source graph database featuring horizontal scalability and high availability",
+        "name": "Nebula Graph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://oss.redislabs.com/redisgraph/",
+        "description": "RedisGraph - Property graph database, based on linear algebra constructs (GraphBLAS)",
+        "name": "RedisGraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://www.sparsity-technologies.com/#sparksee",
+        "description": "Sparksee - makes space and performance compatible with a small footprint and a fast analysis of large networks",
+        "name": "Sparksee",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://stardog.com/",
+        "description": "Stardog - RDF graph database with OLTP and OLAP support",
+        "name": "Stardog",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://orientdb.com/orientdb/",
+        "description": "OrientDB - Distributed Multi-Model NoSQL Database with a Graph Database Engine",
+        "name": "OrientDB",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/terminusdb/terminusdb",
+        "description": "TerminusDB is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.",
+        "name": "TerminusDB",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.tigergraph.com/",
+        "description": "TigerGraph - The First Native Parallel Graph capable of real-time analytics on web-scale data",
+        "name": "TigerGraph",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/semi-technologies/weaviate",
+        "description": "Weaviate - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.",
+        "name": "Weaviate",
+        "headers": [
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/eBay/akutan",
+        "description": "Akutan - Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store",
+        "name": "Akutan",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://franz.com/agraph/allegrograph/",
+        "description": "AllegroGraph - high-performance, persistent graph database that scales to billions of quads",
+        "name": "AllegroGraph",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://jena.apache.org/",
+        "description": "Apache Jena - open source Java framework for building Semantic Web and Linked Data applications",
+        "name": "Apache Jena",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://docs.dydra.com/dydra",
+        "description": "Dydra - Dydra is a cloud-based graph database. Dydra stores data is natively stored as a property graph, directly representing the relationships in the underlying data.",
+        "name": "Dydra",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://rdf4j.org/",
+        "description": "Eclipse RDF4J - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.",
+        "name": "Eclipse RDF4J",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://graphdb.ontotext.com/graphdb/",
+        "description": "GraphDB - enterprise ready Semantic Graph Database, compliant with W3C Standards",
+        "name": "GraphDB",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://virtuoso.openlinksw.com/",
+        "description": "Virtuoso - a \u0022Data Junction Box\u0022 that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos",
+        "name": "Virtuoso",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/amirouche/hoply/",
+        "description": "Hoply - explore bigger than RAM relational data in the comfort of Python.",
+        "name": "Hoply",
+        "headers": [
+          "Triple stores",
+          "Graph databases",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://giraph.apache.org/",
+        "description": "Apache Giraph - an iterative graph processing system built for high scalability",
+        "name": "Apache Giraph",
+        "headers": [
+          "Triple stores",
+          "Graph computing frameworks",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://tinkerpop.apache.org/",
+        "description": "Apache TinkerPop - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)",
+        "name": "Apache TinkerPop",
+        "headers": [
+          "Triple stores",
+          "Graph computing frameworks",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://spark.apache.org/graphx/",
+        "description": "Apache Spark - GraphX - Apache Spark\u0027s API for graphs and graph-parallel computation",
+        "name": "Apache Spark - GraphX",
+        "headers": [
+          "Triple stores",
+          "Graph computing frameworks",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/alibaba/GraphScope",
+        "description": "GraphScope - A one-stop large-scale graph computing system from Alibaba",
+        "name": "GraphScope",
+        "headers": [
+          "Triple stores",
+          "Graph computing frameworks",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://www.opencypher.org/",
+        "description": "Cypher",
+        "name": "Cypher",
+        "headers": [
+          "Triple stores",
+          "Languages",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://en.wikipedia.org/wiki/Datalog",
+        "description": "Datalog",
+        "name": "Datalog",
+        "headers": [
+          "Triple stores",
+          "Languages",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://tinkerpop.apache.org/gremlin.html",
+        "description": "Gremlin",
+        "name": "Gremlin",
+        "headers": [
+          "Triple stores",
+          "Languages",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://en.wikipedia.org/wiki/SPARQL",
+        "description": "SPARQL",
+        "name": "SPARQL",
+        "headers": [
+          "Triple stores",
+          "Languages",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://docs.tigergraph.com/",
+        "description": "GSQL",
+        "name": "GSQL",
+        "headers": [
+          "Triple stores",
+          "Languages",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction",
+        "description": "CosmosDB @ Microsoft",
+        "name": "CosmosDB @ Microsoft",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.compose.com/databases/janusgraph",
+        "description": "JanusGraph @ IBM Compose",
+        "name": "JanusGraph @ IBM Compose",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://cloud.google.com/solutions/running-janusgraph-with-bigtable",
+        "description": "JanusGraph @ Google Cloud Platform - JanusGraph on Google Kubernetes Engine backed by Google Cloud Bigtable",
+        "name": "JanusGraph @ Google Cloud Platform",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/awslabs/dynamodb-janusgraph-storage-backend",
+        "description": "JanusGraph @ Amazon Web Services Labs",
+        "name": "JanusGraph @ Amazon Web Services Labs",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.graphenedb.com/",
+        "description": "Neo4j @ Graphene",
+        "name": "Neo4j @ Graphene",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://aws.amazon.com/neptune/",
+        "description": "Neptune @ Amazon Web Services - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets",
+        "name": "Neptune @ Amazon Web Services",
+        "headers": [
+          "Triple stores",
+          "Managed hosting services",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://neo4j.com/developer/cypher-query-language/",
+        "description": "Cypher - reference documentation",
+        "name": "Cypher",
+        "headers": [
+          "Official documentations",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://tinkerpop.apache.org/docs/current/reference/#traversal",
+        "description": "Gremlin - reference documentation",
+        "name": "Gremlin",
+        "headers": [
+          "Official documentations",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://github.com/krlawrence/graph",
+        "description": "Graph Book - TinkerPop3 centric book written by Kelvin R. Lawrence",
+        "name": "Graph BookKelvin R. Lawrence",
+        "headers": [
+          "Community effort",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://sql2gremlin.com/",
+        "description": "SQL2Gremlin - transition from SQL to Gremlin by Daniel Kuppitz",
+        "name": "SQL2GremlinDaniel Kuppitz",
+        "headers": [
+          "Community effort",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://www.doanduyhai.com/blog/?p=13460",
+        "description": "The Gremlin Compendium - minimum survival kit for any Gremlin user, 10 blog post series by Doan DuyHai",
+        "name": "The Gremlin CompendiumDoan DuyHai",
+        "headers": [
+          "Community effort",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "https://www.tigergraph.com/blog/",
+        "description": "TigerGraph Blog",
+        "name": "TigerGraph Blog",
+        "headers": [
+          "Blogs",
+          "Learning materials",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://graphconnect.com/",
+        "description": "Graph Connect - powered by Neo4j",
+        "name": "Graph Connect",
+        "headers": [
+          "Blogs",
+          "Conferences",
+          "awesome-graph"
+        ]
+      },
+      {
+        "link": "http://graphday.com/",
+        "description": "Graph Day - an Independent Graph Conference from the Data Day folks",
+        "name": "Graph Day",
+        "headers": [
+          "Blogs",
+          "Conferences",
+          "awesome-graph"
+        ]
+      }
+    ]
+  },
+  {
     "filename": "awesome-knowledge-graph.md",
     "data": [
       {
