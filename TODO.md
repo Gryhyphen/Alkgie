@@ -25,3 +25,11 @@
     -           Maybe could be done using powershell and installing the dedupe csv thing?
     -           Or executing the python via powershell.
     -           I really dislike python version management tho.
+
+
+- Bugs to fix
+   - Fixup GSQL entity not having their relationships preserved in the clean datastep
+   - something seems be systematically going wrong and removing relations that need to be preserved
+   - I think it might have to do with the last element in a list?
+   - GSQL appears in the awesome-graph dataset
+   - It should have a relationship with the clean dataset step.
