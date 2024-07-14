@@ -28,8 +28,5 @@
 
 
 - Bugs to fix
-   - Fixup GSQL entity not having their relationships preserved in the clean datastep
-   - something seems be systematically going wrong and removing relations that need to be preserved
-   - I think it might have to do with the last element in a list?
-   - GSQL appears in the awesome-graph dataset
-   - It should have a relationship with the clean dataset step.
+    - 1. Some themes are not preserving their relationships, for example, infrastructure and graph databases.
+    - 2. Broke url deduplication as creation of themes from headers was done with an empty url. Need to address this.
